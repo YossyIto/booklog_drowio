@@ -10,9 +10,6 @@
         <mxCell id="wB-vOCK7ZeIK4jQeP6Mi-2" value="感受性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wB-vOCK7ZeIK4jQeP6Mi-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wB-vOCK7ZeIK4jQeP6Mi-3" target="wB-vOCK7ZeIK4jQeP6Mi-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wB-vOCK7ZeIK4jQeP6Mi-3" value="体験" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="80" as="geometry" />
         </mxCell>
