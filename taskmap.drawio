@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="ページ1" id="CPpaSzQVmabbcuSvn5hp">
-    <mxGraphModel>
+    <mxGraphModel dx="998" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="YJfFJ3zfVdRVWY4Bb8kU-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="400" as="sourcePoint" />
+            <mxPoint x="640" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-2" value="好き" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-3" value="嫌い" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-5" value="必要" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-6" value="不必要" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-7" value="スケジュールを決めて&lt;div&gt;最低ライン以上の状態にする必要あり&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-8" value="何も言われなくてもやる" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-9" value="過去の遺産&lt;div&gt;任せる&lt;/div&gt;&lt;div&gt;縮小させる&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-10" value="タスクの偏りを見つける4象限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJfFJ3zfVdRVWY4Bb8kU-11" value="やる必要なし&lt;div&gt;絶対しない&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="160" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
