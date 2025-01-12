@@ -7,11 +7,38 @@
         <mxCell id="vDtdReWLnv9GNX-Si-yO-1" value="静寂の技法&lt;div&gt;GOLDEN : The power of silent in a world of noise&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-2" value="雄弁は銀、沈黙は金" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="120" width="180" height="30" as="geometry" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-2" value="雄弁は銀、沈黙は金&lt;div&gt;雄弁は束の間のもの、沈黙は永遠のもの&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-3" value="雄弁は銀、沈黙は金" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-5" value="聴覚騒音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-6" value="内部騒音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-9" value="情報騒音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-10" value="騒音" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-12" value="・&lt;div&gt;・&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-13" value="・アテンション・エコノミー&lt;div&gt;・注意の貧困&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-14" value="・&lt;div&gt;・&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-16" value="静寂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-17" value="謙虚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
