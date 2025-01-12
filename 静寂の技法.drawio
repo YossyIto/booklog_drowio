@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="ページ1" id="Y3TuCsrvk8gNR1hr809_">
-    <mxGraphModel dx="834" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="vDtdReWLnv9GNX-Si-yO-12" value="&lt;div&gt;・機械の音、デジタル機器の音&lt;br&gt;・一度に一人しか理解できない&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="840" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-13" value="&lt;div&gt;・アテンション・エコノミー&lt;div&gt;・注意の貧困&lt;/div&gt;&lt;/div&gt;&lt;div&gt;・情報量が1986年と比較し5倍入手&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-13" value="&lt;div&gt;・デジタル機器からの通知&lt;/div&gt;&lt;div&gt;・アテンション・エコノミー&lt;div&gt;・注意の貧困&lt;/div&gt;&lt;/div&gt;&lt;div&gt;・情報量が1986年と比較し5倍入手&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="920" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-14" value="・情報騒音による反射&lt;br&gt;&lt;div&gt;・意識の外部化&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="vDtdReWLnv9GNX-Si-yO-29" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・騒音に気づく&lt;/span&gt;&lt;/div&gt;&lt;div&gt;・静寂に波長を合わせる&lt;/div&gt;&lt;div&gt;・穏やかでない→穏やか&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="680" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-30" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・選ぶ力&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・内部騒音を外に出す（ジャーナル、瞑想）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-30" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Good&lt;br&gt;・発することを選ぶ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bad&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・反射的な行動&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="680" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.388;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vDtdReWLnv9GNX-Si-yO-10" target="vDtdReWLnv9GNX-Si-yO-24">
@@ -93,9 +93,6 @@
               <mxPoint x="230" y="1137" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-33" value="思考と注意というコスト&lt;div&gt;→便利依存症&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="465" y="750" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-34" value="静寂は、神聖な無用性と同じく&quot;無用&quot;である。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="300" height="40" as="geometry" />
@@ -139,7 +136,7 @@
             <mxPoint x="363" y="552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-49" value="人が感じられる注意の総量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-49" value="人が感じられる思考と注意の総量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="440" y="800" width="360" height="300" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-52" value="騒音による刺激" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -160,11 +157,14 @@
         <mxCell id="vDtdReWLnv9GNX-Si-yO-57" value="Good" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="1040" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="940" as="sourcePoint" />
-            <mxPoint x="650" y="940" as="targetPoint" />
+            <mxPoint x="600" y="940" as="sourcePoint" />
+            <mxPoint x="640" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-59" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・騒音による反射&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;→ 減らすには、騒音元を減らす&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;　内部騒音を外に出す&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（ジャーナル、瞑想）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1100" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
