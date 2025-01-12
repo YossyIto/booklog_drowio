@@ -1,44 +1,143 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="ページ1" id="Y3TuCsrvk8gNR1hr809_">
-    <mxGraphModel dx="1057" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-45" value="静寂の概念" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-16" value="静寂と同じ意味" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-10" value="騒音" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="360" height="300" as="geometry" />
+        </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-1" value="静寂の技法&lt;div&gt;GOLDEN : The power of silent in a world of noise&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="320" height="50" as="geometry" />
+          <mxGeometry x="40" y="10" width="760" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-2" value="雄弁は銀、沈黙は金&lt;div&gt;雄弁は束の間のもの、沈黙は永遠のもの&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="120" width="300" height="40" as="geometry" />
+          <mxGeometry x="40" y="80" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-3" value="雄弁は銀、沈黙は金" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="180" width="180" height="30" as="geometry" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-3" value="&lt;div&gt;「刺激と応答の間には隙間がある。&lt;/div&gt;&lt;div&gt;その隙間に、私たちが自分の応答を選ぶ力がある。&lt;/div&gt;&lt;div&gt;その応答の中に、私たちの成長と自由がある。」&lt;/div&gt;&lt;div&gt;ヴィクトール・フランクル&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="60" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-5" value="聴覚騒音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-6" value="内部騒音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vDtdReWLnv9GNX-Si-yO-9" value="情報騒音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="920" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-10" value="騒音" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="280" height="40" as="geometry" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-12" value="&lt;div&gt;・機械の音、デジタル機器の音&lt;br&gt;・一度に一人しか理解できない&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-12" value="・&lt;div&gt;・&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="200" height="80" as="geometry" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-13" value="&lt;div&gt;・アテンション・エコノミー&lt;div&gt;・注意の貧困&lt;/div&gt;&lt;/div&gt;&lt;div&gt;・情報量が1986年と比較し5倍入手&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-13" value="・アテンション・エコノミー&lt;div&gt;・注意の貧困&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="200" height="80" as="geometry" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-14" value="・情報騒音による反射&lt;br&gt;&lt;div&gt;・意識の外部化&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1000" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-14" value="・&lt;div&gt;・&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="200" height="80" as="geometry" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-17" value="再生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-16" value="静寂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="270" height="40" as="geometry" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-20" value="謙虚さ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vDtdReWLnv9GNX-Si-yO-17" value="謙虚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="80" height="40" as="geometry" />
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-21" value="明確さ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-22" value="拡張" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-23" value="応答" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-24" value="騒音による刺激" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-25" value="隙間&lt;div&gt;（静寂による空間）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vDtdReWLnv9GNX-Si-yO-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="585" as="sourcePoint" />
+            <mxPoint x="360" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="594.5" as="sourcePoint" />
+            <mxPoint x="600" y="594.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-29" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・騒音に気づく&lt;/span&gt;&lt;/div&gt;&lt;div&gt;・静寂に波長を合わせる&lt;/div&gt;&lt;div&gt;・穏やかでない→穏やか&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-30" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・選ぶ力&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・内部騒音を外に出す（ジャーナル、瞑想）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="680" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.388;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vDtdReWLnv9GNX-Si-yO-10" target="vDtdReWLnv9GNX-Si-yO-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="790" as="sourcePoint" />
+            <mxPoint x="180" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1100" as="sourcePoint" />
+            <mxPoint x="280" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="1137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-33" value="思考と注意というコスト&lt;div&gt;→便利依存症&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="810" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-34" value="静寂は、神聖な無用性と同じく&quot;無用&quot;である。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-35" value="静寂とは、「奇妙な疑問を自らに投げかけるだけの&lt;div&gt;ゆとりを持つこと。」&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-36" value="&lt;div&gt;・神経系をリセットできる&lt;/div&gt;・助けと癒し" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-37" value="静寂の概念は、騒音の不在だ。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="190" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-38" value="静かというのは、何であれ、&lt;div&gt;本人が静かだと思っているものです。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-39" value="静寂は、魂のシンクタンク&lt;div&gt;静寂は、私たちの特質、つまり人間性を育み、&lt;/div&gt;&lt;div&gt;自分が何者かを知らしめてくれます。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-40" value="生命そのものの本質" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-41" value="・知らないという姿勢&lt;div&gt;・手放す場&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-42" value="&lt;div&gt;・本当に心の中にあるものを見る&lt;/div&gt;&lt;div&gt;・外部から隔離したときに残るもの&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-43" value="・注意の空間の展開&lt;div&gt;・何が存在しているかを知ること&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-44" value="・この上なく純粋な注意を払っているときに、根本的な振動に波長を合わせる" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-46" value="根本的な振動&lt;div&gt;（自分の特質も）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vDtdReWLnv9GNX-Si-yO-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.204;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vDtdReWLnv9GNX-Si-yO-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="550" as="sourcePoint" />
+            <mxPoint x="363" y="552" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
