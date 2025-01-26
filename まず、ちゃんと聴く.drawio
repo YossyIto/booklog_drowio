@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="ページ1" id="4HgTYoFACG-caNTI2MGD">
-    <mxGraphModel dx="1143" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,8 +145,65 @@
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-50" value="OODAループ？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="07Ang8cjGGsQBQ0ae3U9-51" value="・相手の話をともに体験しようとすること" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1200" width="400" height="60" as="geometry" />
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-51" value="・相手の話をともに体験しようとすること&lt;div&gt;・「相手」に関心を持つのではなく、「相手の関心事」に自分も関心を持つ&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1200" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-52" value="聴くMAP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="585" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-53" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="880" as="sourcePoint" />
+            <mxPoint x="559" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-54" value="未来&lt;div&gt;ー&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="860" as="sourcePoint" />
+            <mxPoint x="680" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-57" value="未来&lt;div&gt;＋&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="640" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-58" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="880" as="sourcePoint" />
+            <mxPoint x="800" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="784" y="720" as="sourcePoint" />
+            <mxPoint x="570" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="800" as="sourcePoint" />
+            <mxPoint x="570" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-61" value="現在&lt;br&gt;&lt;div&gt;ー&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-62" value="現在&lt;br&gt;&lt;div&gt;＋&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="720" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-63" value="未来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-64" value="過去" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-65" value="過去&lt;br&gt;&lt;div&gt;ー&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-66" value="&lt;div&gt;過去&lt;/div&gt;&lt;div&gt;＋&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="800" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
