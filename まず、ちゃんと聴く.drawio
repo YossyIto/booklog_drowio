@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="ページ1" id="4HgTYoFACG-caNTI2MGD">
-    <mxGraphModel dx="1143" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,37 +116,37 @@
           <mxGeometry x="260" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-40" value="聞く&lt;div&gt;withジャッジメント&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="860" width="120" height="180" as="geometry" />
+          <mxGeometry x="860" y="264" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-41" value="指導力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="264" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-42" value="評価力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="324" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-43" value="共有力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="384" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-44" value="聴く&lt;div&gt;withoutジャッジメント&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1200" width="120" height="120" as="geometry" />
+          <mxGeometry x="860" y="600" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-45" value="質問力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="464" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-46" value="承認力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-47" value="傾聴力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-48" value="受容力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-50" value="OODAループ？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-51" value="・相手の話をともに体験しようとすること&lt;div&gt;・「相手」に関心を持つのではなく、「相手の関心事」に自分も関心を持つ&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1200" width="420" height="60" as="geometry" />
+          <mxGeometry x="1170" y="600" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-52" value="聴くMAP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="585" width="290" height="30" as="geometry" />
@@ -207,13 +207,13 @@
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-67" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="1020" as="sourcePoint" />
-            <mxPoint x="800" y="1020" as="targetPoint" />
+            <mxPoint x="560" y="1000" as="sourcePoint" />
+            <mxPoint x="800" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="1100" as="sourcePoint" />
+            <mxPoint x="559" y="1050" as="sourcePoint" />
             <mxPoint x="559" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -221,7 +221,7 @@
           <mxGeometry x="530" y="920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-70" value="具体的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1100" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
