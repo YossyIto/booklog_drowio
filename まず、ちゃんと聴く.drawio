@@ -5,25 +5,115 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-1" value="まず、ちゃんと聴く。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="680" height="40" as="geometry" />
+          <mxGeometry x="80" y="40" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-2" value="「ちゃんと聴く」&lt;div&gt;相手の言動の背景には、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;肯定的意図があると&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;信じている状態で聴く。こと。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="270" height="80" as="geometry" />
+          <mxGeometry x="80" y="100" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="07Ang8cjGGsQBQ0ae3U9-4" value="聴く力" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-4" value="聴く力&lt;div&gt;（ケース）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-5" value="聴く力①&lt;div&gt;何でも話してもらう力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-6" value="聴く力➁&lt;div&gt;解像度を&lt;/div&gt;&lt;div&gt;上げる力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-7" value="＝" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="40" height="40" as="geometry" />
+          <mxGeometry x="200" y="360" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-8" value="＋" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="40" height="40" as="geometry" />
+          <mxGeometry x="360" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-10" value="聴く" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-11" value="聞く&lt;div&gt;withジャッジメント&lt;/div&gt;&lt;div&gt;自分の解釈が入る&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-12" value="聴く&lt;div&gt;withoutジャッジメント&lt;/div&gt;&lt;div&gt;自分の解釈が入らない&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="07Ang8cjGGsQBQ0ae3U9-10" target="07Ang8cjGGsQBQ0ae3U9-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="07Ang8cjGGsQBQ0ae3U9-10" target="07Ang8cjGGsQBQ0ae3U9-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="370" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-15" value="聴く力&lt;div&gt;（技術）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-16" value="あり方&lt;div&gt;信念&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-17" value="あり方&lt;div&gt;非言語スキルｘ&lt;/div&gt;&lt;div&gt;言語スキル&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-18" value="コンディション" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-19" value="聴く技術" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-20" value="＝" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-21" value="×" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-22" value="×" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-23" value="「まず」&lt;div&gt;うまく聞くではなく、ちゃんと聴く。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-25" value="Feedback Matrix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="585" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="840" as="sourcePoint" />
+            <mxPoint x="200" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="740" as="sourcePoint" />
+            <mxPoint x="320" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-28" value="ゾーン１&lt;div&gt;きちんと&lt;/div&gt;&lt;div&gt;言葉にする&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="640" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-29" value="ゾーン３&lt;div&gt;貢献を&lt;/div&gt;&lt;div&gt;見逃さない&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="640" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-30" value="ゾーン２&lt;div&gt;４つの&lt;/div&gt;&lt;div&gt;伝え方&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-32" value="ポジティブ&lt;div&gt;フィードバック&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-33" value="ネガティブ&lt;div&gt;フィードバック&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-34" value="他者への貢献度　高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="615" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-35" value="事象の発生頻度　低" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-37" value="低" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-38" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
