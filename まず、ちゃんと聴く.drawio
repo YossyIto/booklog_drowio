@@ -115,7 +115,7 @@
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-38" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="07Ang8cjGGsQBQ0ae3U9-40" value="聞く" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-40" value="聞く&lt;div&gt;withジャッジメント&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="860" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-41" value="指導力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -127,8 +127,8 @@
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-43" value="共有力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07Ang8cjGGsQBQ0ae3U9-44" value="聞く" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1200" width="120" height="180" as="geometry" />
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-44" value="聴く&lt;div&gt;withoutジャッジメント&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1200" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-45" value="質問力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1060" width="120" height="60" as="geometry" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-50" value="OODAループ？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-51" value="・相手の話をともに体験しようとすること" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1200" width="400" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
