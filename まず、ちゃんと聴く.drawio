@@ -28,11 +28,11 @@
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-10" value="聴く" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="07Ang8cjGGsQBQ0ae3U9-11" value="聞く&lt;div&gt;withジャッジメント&lt;/div&gt;&lt;div&gt;自分の解釈が入る&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="280" height="60" as="geometry" />
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-11" value="聞く（伝える）&lt;div&gt;withジャッジメント&lt;/div&gt;&lt;div&gt;自分の解釈が入る&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-12" value="聴く&lt;div&gt;withoutジャッジメント&lt;/div&gt;&lt;div&gt;自分の解釈が入らない&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="260" width="280" height="60" as="geometry" />
+          <mxGeometry x="240" y="260" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="07Ang8cjGGsQBQ0ae3U9-10" target="07Ang8cjGGsQBQ0ae3U9-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,11 +49,11 @@
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-15" value="聴く力&lt;div&gt;（技術）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="07Ang8cjGGsQBQ0ae3U9-16" value="あり方&lt;div&gt;信念&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-16" value="あり方&lt;div&gt;信念（正しいと思うこと）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-17" value="あり方&lt;div&gt;非言語スキルｘ&lt;/div&gt;&lt;div&gt;言語スキル&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-18" value="コンディション" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="440" width="120" height="120" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="400" y="100" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-25" value="Feedback Matrix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="585" width="240" height="30" as="geometry" />
+          <mxGeometry x="80" y="585" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -114,6 +114,36 @@
         </mxCell>
         <mxCell id="07Ang8cjGGsQBQ0ae3U9-38" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-40" value="聞く" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="860" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-41" value="指導力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-42" value="評価力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-43" value="共有力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-44" value="聞く" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1200" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-45" value="質問力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-46" value="承認力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-47" value="傾聴力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-48" value="受容力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Ang8cjGGsQBQ0ae3U9-50" value="OODAループ？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
