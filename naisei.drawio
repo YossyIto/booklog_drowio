@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wB-vOCK7ZeIK4jQeP6Mi-12" value="①気づき" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="200" width="130" height="30" as="geometry" />
+          <mxGeometry x="520" y="220" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wB-vOCK7ZeIK4jQeP6Mi-13" value="思考力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="600" y="520" width="80" height="40" as="geometry" />
@@ -68,10 +68,10 @@
           <mxGeometry x="160" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wB-vOCK7ZeIK4jQeP6Mi-15" value="➁分かち合い" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="575" y="410" width="130" height="30" as="geometry" />
+          <mxGeometry x="575" y="420" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wB-vOCK7ZeIK4jQeP6Mi-16" value="③解釈する" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="575" y="450" width="130" height="30" as="geometry" />
+          <mxGeometry x="515" y="480" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wB-vOCK7ZeIK4jQeP6Mi-17" value="④一般化する" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="480" width="130" height="30" as="geometry" />
