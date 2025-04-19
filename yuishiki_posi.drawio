@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="ページ1" id="Avn_IjXBFJIkiu06WHae">
-    <mxGraphModel dx="468" dy="216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="450" y="210" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-15" value="心所&lt;div&gt;④ 食べたい&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="410" width="130" height="50" as="geometry" />
+          <mxGeometry x="415" y="410" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-6" target="HBVwzdZ3Glg3BGLDMUVo-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,13 +61,13 @@
             <mxPoint x="550" y="294.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.013;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="HBVwzdZ3Glg3BGLDMUVo-15">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-3" target="HBVwzdZ3Glg3BGLDMUVo-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="579.22" y="380.86" as="sourcePoint" />
             <mxPoint x="540" y="380.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-20" value="① リンゴのようなものを見た&lt;div&gt;➁ リンゴと特定する&lt;/div&gt;&lt;div&gt;③ リンゴの記憶を取り出す&lt;/div&gt;&lt;div&gt;　おいしかった、好きだ&lt;/div&gt;&lt;div&gt;④&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-20" value="① リンゴのようなものを見た&lt;div&gt;➁ リンゴと特定する&lt;/div&gt;&lt;div&gt;③ リンゴの記憶を取り出す&lt;/div&gt;&lt;div&gt;　おいしかった、好きだ&lt;/div&gt;&lt;div&gt;④ 今少しお腹が空いている、食べたい&lt;/div&gt;&lt;div&gt;⑤ 食べようと手を出す&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="180" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-15" target="HBVwzdZ3Glg3BGLDMUVo-5">
