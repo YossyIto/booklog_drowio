@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="ページ1" id="Avn_IjXBFJIkiu06WHae">
-    <mxGraphModel dx="961" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;心内" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="360" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-3" value="阿頼耶識&lt;div&gt;&lt;br&gt;&lt;div&gt;③おいしい、&lt;/div&gt;&lt;/div&gt;&lt;div&gt;好き&lt;/div&gt;&lt;div&gt;⑥&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-3" value="阿頼耶識&lt;div&gt;&lt;br&gt;&lt;div&gt;③おいしい、&lt;/div&gt;&lt;/div&gt;&lt;div&gt;好き&lt;/div&gt;&lt;div&gt;⑥蓄積&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="210" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-4" value="心外" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -43,13 +43,13 @@
             <mxPoint x="549.9999999999999" y="260.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-5" value="意識&lt;div&gt;➁認知&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-5" value="意識&lt;div&gt;➁認知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="210" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-15" value="心所（細かい振る舞い）&lt;div&gt;④ 食べたい&lt;/div&gt;&lt;div&gt;⑤行為の契機&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="400" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-6" target="HBVwzdZ3Glg3BGLDMUVo-15">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-6" target="HBVwzdZ3Glg3BGLDMUVo-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="263" as="sourcePoint" />
             <mxPoint x="560" y="263" as="targetPoint" />
@@ -61,7 +61,7 @@
             <mxPoint x="550" y="294.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-3" target="HBVwzdZ3Glg3BGLDMUVo-15">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.63;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-3" target="HBVwzdZ3Glg3BGLDMUVo-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="579.22" y="380.86" as="sourcePoint" />
             <mxPoint x="540" y="380.0000000000001" as="targetPoint" />
@@ -76,19 +76,25 @@
             <mxPoint x="534.42" y="350.3700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.008;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-15">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="414" as="sourcePoint" />
-            <mxPoint x="270" y="418" as="targetPoint" />
+            <mxPoint x="380" y="426" as="sourcePoint" />
+            <mxPoint x="270" y="424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-26" value="身体&lt;div&gt;手を動かす&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="390" width="100" height="60" as="geometry" />
+          <mxGeometry x="170" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-15" target="HBVwzdZ3Glg3BGLDMUVo-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="652" y="428" as="sourcePoint" />
             <mxPoint x="630" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.621;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-26" target="HBVwzdZ3Glg3BGLDMUVo-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="360.46000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
