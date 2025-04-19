@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ilXZ_e5D9jU88AS-f011-19" value="心（心王）" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ilXZ_e5D9jU88AS-f011-19" value="心（心王） [8]" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="670" height="380" as="geometry" />
         </mxCell>
         <mxCell id="cM_kvoNp911ET9y7y-Xn-1" value="唯識思想&lt;div&gt;全体像&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="ilXZ_e5D9jU88AS-f011-18" value="阿頼耶識（あらやしき：蔵識）&lt;div&gt;根本心、業の結果を貯蔵する&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="530" width="620" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ilXZ_e5D9jU88AS-f011-21" value="心所&lt;div&gt;（しんじょ）&lt;br&gt;&lt;div&gt;&lt;div&gt;細かい心作用&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;遍行&lt;/div&gt;&lt;div&gt;別境&lt;/div&gt;&lt;div&gt;善&lt;/div&gt;&lt;div&gt;煩悩&lt;/div&gt;&lt;div&gt;随&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;煩悩&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;不定&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ilXZ_e5D9jU88AS-f011-21" value="心所 [51]&lt;div&gt;（しんじょ）&lt;br&gt;&lt;div&gt;&lt;div&gt;細かい心作用&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;遍行&lt;/div&gt;&lt;div&gt;別境&lt;/div&gt;&lt;div&gt;善&lt;/div&gt;&lt;div&gt;煩悩&lt;/div&gt;&lt;div&gt;随&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;煩悩&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;不定&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="900" y="330" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ilXZ_e5D9jU88AS-f011-22" value="表層心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="ilXZ_e5D9jU88AS-f011-40" value="意業[3]&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;慳貪&lt;/div&gt;&lt;div&gt;瞋恚&lt;/div&gt;&lt;div&gt;邪見&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="780" y="680" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ilXZ_e5D9jU88AS-f011-41" value="主体の器官" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
