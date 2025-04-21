@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="ページ1" id="Avn_IjXBFJIkiu06WHae">
-    <mxGraphModel dx="866" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="923" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,9 +8,9 @@
           <mxGeometry x="90" y="80" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;心内" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="300" y="110" width="380" height="380" as="geometry" />
+          <mxGeometry x="300" y="110" width="370" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-3" value="阿頼耶識&lt;div&gt;&lt;div&gt;③&lt;/div&gt;&lt;/div&gt;&lt;div&gt;⑥蓄積&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-3" value="阿頼耶識&lt;div&gt;&lt;div&gt;③生起&lt;/div&gt;&lt;/div&gt;&lt;div&gt;⑥蓄積&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="190" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-4" value="心外" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-20" value="① リンゴのようなものを見た&lt;div&gt;➁ リンゴと特定する&lt;/div&gt;&lt;div&gt;③ リンゴの記憶を取り出す&lt;/div&gt;&lt;div&gt;　リンゴはおいしかった&lt;/div&gt;&lt;div&gt;　リンゴは好きだ&lt;/div&gt;&lt;div&gt;④ 今少しお腹が空いている、食べたい&lt;/div&gt;&lt;div&gt;⑤ 食べようと手を動かす&lt;/div&gt;&lt;div&gt;⑥ 行為を蓄積する&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="190" width="230" height="210" as="geometry" />
+          <mxGeometry x="680" y="210" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-5" target="6yc5_jBH0w0b_K1wFekR-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -88,7 +88,7 @@
             <mxPoint x="630" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.838;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-26" target="6yc5_jBH0w0b_K1wFekR-3" edge="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.809;entryY=0.866;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-26" target="6yc5_jBH0w0b_K1wFekR-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="360" as="sourcePoint" />
             <mxPoint x="127.25999999999999" y="321.65" as="targetPoint" />
