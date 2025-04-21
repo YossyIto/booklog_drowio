@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="ページ1" id="Avn_IjXBFJIkiu06WHae">
-    <mxGraphModel dx="1128" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,24 +8,21 @@
           <mxGeometry x="60" y="80" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;心内" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="290" y="130" width="430" height="430" as="geometry" />
+          <mxGeometry x="290" y="130" width="470" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-3" value="阿頼耶識&lt;div&gt;&lt;br&gt;&lt;div&gt;③記憶の取り出し&lt;/div&gt;&lt;/div&gt;&lt;div&gt;⑦蓄積&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="210" width="60" height="170" as="geometry" />
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-3" value="阿頼耶識&lt;div&gt;&lt;br&gt;&lt;div&gt;③生起&lt;/div&gt;&lt;/div&gt;&lt;div&gt;⑦蓄積&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="250" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-4" value="心外" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="160" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-6" value="眼識&lt;div&gt;①検知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="210" width="60" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-7" value="&lt;div&gt;アルコール&lt;/div&gt;&lt;div&gt;の不在&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="210" width="90" height="110" as="geometry" />
+          <mxGeometry x="350" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-9" value="眼根" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="210" width="60" height="110" as="geometry" />
+          <mxGeometry x="200" y="220" width="70" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="HBVwzdZ3Glg3BGLDMUVo-9" source="FjNekCfPGFctdnA5wodz-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="264.66" as="sourcePoint" />
             <mxPoint x="210" y="265.12" as="targetPoint" />
@@ -33,50 +30,35 @@
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="264.70000000000005" as="sourcePoint" />
-            <mxPoint x="350" y="264.6600000000001" as="targetPoint" />
+            <mxPoint x="270" y="252.12000000000006" as="sourcePoint" />
+            <mxPoint x="350" y="252.0800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.337;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" target="HBVwzdZ3Glg3BGLDMUVo-3" edge="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.337;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="HBVwzdZ3Glg3BGLDMUVo-3" edge="1" source="KZ0onKEbjsjyw-7vjsvZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510.36" y="267.4400000000001" as="sourcePoint" />
             <mxPoint x="549.9999999999999" y="260.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-5" value="意識&lt;div&gt;➁認知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="210" width="60" height="110" as="geometry" />
+          <mxGeometry x="450" y="220" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-15" value="心所（細かい振る舞い）&lt;div&gt;⑤ 足りないから手に入れよう&lt;/div&gt;&lt;div&gt;⑥行為の契機&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="450" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-6" target="KZ0onKEbjsjyw-7vjsvZ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="263" as="sourcePoint" />
-            <mxPoint x="560" y="263" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HBVwzdZ3Glg3BGLDMUVo-5" edge="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="HBVwzdZ3Glg3BGLDMUVo-5" edge="1" source="HBVwzdZ3Glg3BGLDMUVo-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="265" as="sourcePoint" />
             <mxPoint x="550" y="294.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.63;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="KZ0onKEbjsjyw-7vjsvZ-1" target="HBVwzdZ3Glg3BGLDMUVo-15" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="579.22" y="380.86" as="sourcePoint" />
-            <mxPoint x="540" y="380.0000000000001" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-20" value="① アルコールがないことを見る&lt;div&gt;➁ アルコールがないことを認識する&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;③ アルコールの記憶を取り出す&lt;/span&gt;&lt;/div&gt;&lt;div&gt;　アルコールが必要だ&lt;/div&gt;&lt;div&gt;　アルコールが足りない&lt;/div&gt;&lt;div&gt;④&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;自分に必要なものがたりない&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;⑤ 足りないから手に入れようと考える&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;⑥ 手に入れようと探す&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;⑦ 行為を蓄積する&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="730" y="190" width="250" height="210" as="geometry" />
+          <mxGeometry x="770" y="230" width="250" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-5" target="KZ0onKEbjsjyw-7vjsvZ-1" edge="1">
+        <mxCell id="HBVwzdZ3Glg3BGLDMUVo-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.908;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-5" target="FjNekCfPGFctdnA5wodz-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490.0031943344376" y="340.00006267109586" as="sourcePoint" />
-            <mxPoint x="534.42" y="350.3700000000001" as="targetPoint" />
+            <mxPoint x="419.9999999999997" y="349.6399999999999" as="sourcePoint" />
+            <mxPoint x="485.69999999999976" y="334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HBVwzdZ3Glg3BGLDMUVo-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-15" target="HBVwzdZ3Glg3BGLDMUVo-3" edge="1">
@@ -85,22 +67,64 @@
             <mxPoint x="630" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZ0onKEbjsjyw-7vjsvZ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.63;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-3" target="KZ0onKEbjsjyw-7vjsvZ-1" edge="1">
+        <mxCell id="KZ0onKEbjsjyw-7vjsvZ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-3" target="FjNekCfPGFctdnA5wodz-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="585" y="317" as="sourcePoint" />
             <mxPoint x="480" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZ0onKEbjsjyw-7vjsvZ-1" value="末那識&lt;div&gt;④自分都合の認知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="gAH4Rhzi8PDnHNn1gp05-1" value="身体&lt;div&gt;アルコールを探す&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="450" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gAH4Rhzi8PDnHNn1gp05-1" value="身体&lt;div&gt;アルコールを探す&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="450" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="gAH4Rhzi8PDnHNn1gp05-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-15" target="gAH4Rhzi8PDnHNn1gp05-1">
+        <mxCell id="gAH4Rhzi8PDnHNn1gp05-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-15" target="gAH4Rhzi8PDnHNn1gp05-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="550" as="sourcePoint" />
             <mxPoint x="360" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjNekCfPGFctdnA5wodz-1" value="像" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="334" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FjNekCfPGFctdnA5wodz-2" value="アルコール&lt;div&gt;の不在&lt;/div&gt;&lt;div&gt;(実像)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="65" y="334" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FjNekCfPGFctdnA5wodz-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-6" target="FjNekCfPGFctdnA5wodz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjNekCfPGFctdnA5wodz-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.337;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-5" target="KZ0onKEbjsjyw-7vjsvZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510.36" y="267.4400000000001" as="sourcePoint" />
+            <mxPoint x="650" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZ0onKEbjsjyw-7vjsvZ-1" value="末那識&lt;div&gt;④認知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="240" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FjNekCfPGFctdnA5wodz-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-5" target="HBVwzdZ3Glg3BGLDMUVo-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="367" as="sourcePoint" />
+            <mxPoint x="410" y="382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjNekCfPGFctdnA5wodz-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FjNekCfPGFctdnA5wodz-2" target="FjNekCfPGFctdnA5wodz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="384" as="sourcePoint" />
+            <mxPoint x="250" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjNekCfPGFctdnA5wodz-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gAH4Rhzi8PDnHNn1gp05-1" target="FjNekCfPGFctdnA5wodz-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="176.5" y="400" as="sourcePoint" />
+            <mxPoint x="253.5" y="319.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjNekCfPGFctdnA5wodz-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.647;exitDx=0;exitDy=0;entryX=0.72;entryY=-0.02;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="HBVwzdZ3Glg3BGLDMUVo-3" target="HBVwzdZ3Glg3BGLDMUVo-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
