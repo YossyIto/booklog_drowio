@@ -1,9 +1,285 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="ページ1" id="k0JsH1NwCoPHk9hEPvyp">
-    <mxGraphModel>
+    <mxGraphModel dx="1301" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C3-1qT_cKMizSYInRuVy-1" value="個性とは？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-2" value="INPUT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-3" value="PROCESS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="90" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-4" value="OUTPUT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="90" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-5" value="個人の志向性によるフィルター&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;と補正&lt;/span&gt;(興味、関心)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-6" value="個人の身体によるフィルターと補正&lt;div&gt;(五感の性能)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.71" y="680" as="sourcePoint" />
+            <mxPoint x="159.71" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-8" value="外界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-9" value="個性の可能性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.71" y="570" as="sourcePoint" />
+            <mxPoint x="159.71" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.71" y="460" as="sourcePoint" />
+            <mxPoint x="159.71" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-12" value="文化、社会によるフィルターと補正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.71" y="350" as="sourcePoint" />
+            <mxPoint x="159.71" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.83" y="240" as="sourcePoint" />
+            <mxPoint x="159.83" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="179.66000000000003" as="sourcePoint" />
+            <mxPoint x="390" y="179.66000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-17" value="&lt;div&gt;観察&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Observe)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;フォーカスする、留まる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-18" value="個人の現在の感情による&lt;div&gt;フィルターと補正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="580" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="570" as="sourcePoint" />
+            <mxPoint x="330" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="460" as="sourcePoint" />
+            <mxPoint x="290" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="sourcePoint" />
+            <mxPoint x="250" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-22" value="個人の志向性によるフィルター&lt;div&gt;と補正(興味、関心)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="880" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-23" value="個人の身体によるフィルター&lt;div&gt;と補正(表現の性能)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="880" y="470" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-24" value="文化、社会によるフィルターと補正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="880" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-25" value="個人の現在の感情による&lt;div&gt;フィルターと補正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="880" y="580" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-26" value="外界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="690" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="179.66000000000003" as="sourcePoint" />
+            <mxPoint x="870" y="179.66000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939.66" y="210" as="sourcePoint" />
+            <mxPoint x="939.66" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939.66" y="320" as="sourcePoint" />
+            <mxPoint x="939.66" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939.66" y="430" as="sourcePoint" />
+            <mxPoint x="939.66" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939.66" y="540" as="sourcePoint" />
+            <mxPoint x="939.66" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939.66" y="650" as="sourcePoint" />
+            <mxPoint x="939.66" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="710" as="sourcePoint" />
+            <mxPoint x="360" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="210" as="sourcePoint" />
+            <mxPoint x="1030" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="210" as="sourcePoint" />
+            <mxPoint x="1070" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="210" as="sourcePoint" />
+            <mxPoint x="1110" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-38" value="フィードバック&lt;div&gt;（外界）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="720" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-39" value="情勢判断&lt;div&gt;(Orient)&lt;/div&gt;&lt;div&gt;複数の視点、視座&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-40" value="掘り下げる&lt;div&gt;(Sencing)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-41" value="&lt;div&gt;再生成&lt;br&gt;(Regenerate)&lt;/div&gt;ソースに触れる、手放し、迎えいれる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-42" value="新たな思考と原則を創造する" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="710" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-45" value="新たな行動とプロセスを創造する" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="710" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-46" value="新たな構造と実践を創造する" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="710" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.99999999999994" y="210" as="sourcePoint" />
+            <mxPoint x="459.99999999999994" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.99999999999994" y="320" as="sourcePoint" />
+            <mxPoint x="459.99999999999994" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.99999999999994" y="430" as="sourcePoint" />
+            <mxPoint x="459.99999999999994" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.99999999999994" y="540" as="sourcePoint" />
+            <mxPoint x="459.99999999999994" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="570" as="sourcePoint" />
+            <mxPoint x="770" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="460" as="sourcePoint" />
+            <mxPoint x="770" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="350" as="sourcePoint" />
+            <mxPoint x="770" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770.12" y="240" as="sourcePoint" />
+            <mxPoint x="770.12" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="279.71000000000004" as="sourcePoint" />
+            <mxPoint x="690" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-56" value="再構造化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-57" value="事象&lt;div&gt;(Event)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-58" value="実行&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Act)&lt;/span&gt;&lt;div&gt;意思決定(Decide)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="180.00000000000006" as="sourcePoint" />
+            <mxPoint x="690" y="180.29000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-60" value="反応" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="390.00000000000006" as="sourcePoint" />
+            <mxPoint x="690" y="390.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-62" value="再設計" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="500.00000000000006" as="sourcePoint" />
+            <mxPoint x="690" y="500.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-64" value="枠組みの再構成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1qT_cKMizSYInRuVy-65" value="個性ではないもの" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
