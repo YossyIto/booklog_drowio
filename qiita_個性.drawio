@@ -172,7 +172,7 @@
         <mxCell id="C3-1qT_cKMizSYInRuVy-39" value="情勢判断&lt;div&gt;(Orient)&lt;/div&gt;&lt;div&gt;複数の視点、視座&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3-1qT_cKMizSYInRuVy-40" value="掘り下げる&lt;div&gt;(Sencing)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-40" value="掘り下げる&lt;div&gt;(Sensing)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3-1qT_cKMizSYInRuVy-41" value="&lt;div&gt;再生成&lt;br&gt;(Regenerate)&lt;/div&gt;ソースに触れる、手放し、迎えいれる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
