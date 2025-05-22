@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="ページ1" id="k0JsH1NwCoPHk9hEPvyp">
-    <mxGraphModel dx="1131" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1214" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C3-1qT_cKMizSYInRuVy-1" value="個性とは？&lt;div&gt;U理論、OODA LOOPを結合&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-1" value="自分で気づく&lt;div&gt;瞑想の仕組み&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="30" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C3-1qT_cKMizSYInRuVy-2" value="INPUT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="C3-1qT_cKMizSYInRuVy-8" value="外界" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="690" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C3-1qT_cKMizSYInRuVy-9" value="個性の可能性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-9" value="機能する" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C3-1qT_cKMizSYInRuVy-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -46,7 +46,7 @@
             <mxPoint x="159.71" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C3-1qT_cKMizSYInRuVy-12" value="文化、社会によるフィルターと補正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-12" value="文化、社会によるフィルターと補正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3-1qT_cKMizSYInRuVy-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -91,16 +91,16 @@
             <mxPoint x="250" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C3-1qT_cKMizSYInRuVy-22" value="個人の志向性によるフィルター&lt;div&gt;と補正(興味、関心)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-22" value="個人の志向性によるフィルター&lt;div&gt;と補正(興味、関心)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="880" y="360" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3-1qT_cKMizSYInRuVy-23" value="個人の身体によるフィルター&lt;div&gt;と補正(表現の性能)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-23" value="個人の身体によるフィルター&lt;div&gt;と補正(表現の性能)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="880" y="470" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3-1qT_cKMizSYInRuVy-24" value="文化、社会によるフィルターと補正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-24" value="文化、社会によるフィルターと補正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="880" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C3-1qT_cKMizSYInRuVy-25" value="個人の現在の感情による&lt;div&gt;フィルターと補正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-25" value="個人の現在の感情による&lt;div&gt;フィルターと補正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="880" y="580" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3-1qT_cKMizSYInRuVy-26" value="外界" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -277,8 +277,11 @@
         <mxCell id="C3-1qT_cKMizSYInRuVy-64" value="枠組みの再構成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="520" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C3-1qT_cKMizSYInRuVy-65" value="個性ではないもの" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="C3-1qT_cKMizSYInRuVy-65" value="機能しない" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="550" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ew3Fs43Ngu5i7VK99dY-3" value="それ以外" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="30" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
