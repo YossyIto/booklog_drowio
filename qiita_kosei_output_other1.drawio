@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dZI_uBbOkzf9ldA4B1yR-1" value="他者からの反応で気づく" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="dZI_uBbOkzf9ldA4B1yR-1" value="他者からの反応で気づく&lt;div&gt;～自身の特徴を聞いてみる～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dZI_uBbOkzf9ldA4B1yR-2" value="外界" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
