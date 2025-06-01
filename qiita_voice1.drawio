@@ -26,7 +26,7 @@
           <mxGeometry x="250" y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NyK0vDpIMJGg7dp4muL_-6" value="能動&lt;div&gt;(active)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="210" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NyK0vDpIMJGg7dp4muL_-7" value="受動&lt;div&gt;(passive)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="80" height="30" as="geometry" />
@@ -60,18 +60,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NyK0vDpIMJGg7dp4muL_-16" value="能動態&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(active voice)&lt;/span&gt;&lt;div&gt;受動態&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(passive voice)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="210" y="90" width="180" height="30" as="geometry" />
+          <mxGeometry x="220" y="90" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NyK0vDpIMJGg7dp4muL_-17" value="中動態&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(middle voice)&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="180" height="30" as="geometry" />
+          <mxGeometry x="220" y="320" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NyK0vDpIMJGg7dp4muL_-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NyK0vDpIMJGg7dp4muL_-9" target="NyK0vDpIMJGg7dp4muL_-9">
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyK0vDpIMJGg7dp4muL_-9" target="NyK0vDpIMJGg7dp4muL_-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="505" y="414" as="sourcePoint" />
             <mxPoint x="547" y="426" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="475" y="394" />
-              <mxPoint x="505" y="404" />
+              <mxPoint x="480" y="394" />
+              <mxPoint x="510" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,6 +80,15 @@
         </mxCell>
         <mxCell id="NyK0vDpIMJGg7dp4muL_-21" value="場" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="354" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-22" value="[出来事]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-23" value="[出来事]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-24" value="[出来事]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
