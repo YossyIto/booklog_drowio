@@ -1,9 +1,86 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="ページ1" id="XXv5Cp4fNnT-YZkBVr2Y">
-    <mxGraphModel>
+    <mxGraphModel dx="1064" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="354" width="510" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-1" value="動態" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-2" value="A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-3" value="B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyK0vDpIMJGg7dp4muL_-2" target="NyK0vDpIMJGg7dp4muL_-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="210" as="sourcePoint" />
+            <mxPoint x="320" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-5" value="&quot;ありがとう&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-6" value="能動&lt;div&gt;(active)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-7" value="受動&lt;div&gt;(passive)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-8" value="A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="424" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-9" value="B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="424" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" source="NyK0vDpIMJGg7dp4muL_-8" target="NyK0vDpIMJGg7dp4muL_-9" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275" y="474" as="sourcePoint" />
+            <mxPoint x="325" y="424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-11" value="&quot;ありがとう&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="474" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-12" value="お返しをしたい" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="364" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyK0vDpIMJGg7dp4muL_-8" target="NyK0vDpIMJGg7dp4muL_-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="634" as="sourcePoint" />
+            <mxPoint x="615" y="584" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="394" />
+              <mxPoint x="225" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-16" value="能動態&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(active voice)&lt;/span&gt;&lt;div&gt;受動態&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(passive voice)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-17" value="中動態&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(middle voice)&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NyK0vDpIMJGg7dp4muL_-9" target="NyK0vDpIMJGg7dp4muL_-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="414" as="sourcePoint" />
+            <mxPoint x="547" y="426" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="394" />
+              <mxPoint x="505" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-19" value="&quot;うれしい&quot;と思う" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="364" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NyK0vDpIMJGg7dp4muL_-21" value="場" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="354" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
