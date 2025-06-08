@@ -73,8 +73,8 @@
         <mxCell id="VWtdcPpH-dzznXyx7XUg-19" value="差分データ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="290" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VWtdcPpH-dzznXyx7XUg-20" value="入力データ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="110" width="80" height="30" as="geometry" />
+        <mxCell id="VWtdcPpH-dzznXyx7XUg-20" value="工学的なモデル" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWtdcPpH-dzznXyx7XUg-21" value="Input&lt;div&gt;Ref&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="80" height="40" as="geometry" />
