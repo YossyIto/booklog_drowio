@@ -1,9 +1,126 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="ページ1" id="8LvqR-1ZpVQIwUV0y79d">
-    <mxGraphModel>
+    <mxGraphModel dx="1110" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LoqVl54cXITUqYbAEmzm-1" value="深化のパターン&lt;div&gt;～守破離➁～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-4" value="守のはじめ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-6" value="守の最後" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-7" value="第一の型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="200" as="sourcePoint" />
+            <mxPoint x="380" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="199.57999999999998" as="sourcePoint" />
+            <mxPoint x="700" y="199.57999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-11" value="破のはじめ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="760" y="145" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-13" value="第一の型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-15" value="第一の型の外へ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="839.17" y="290" as="sourcePoint" />
+            <mxPoint x="839" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="760" y="365" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-18" value="第一の型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="760" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-20" value="第一の型&lt;div&gt;改良&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="405" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-21" value="破の最後" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="500" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="420" as="sourcePoint" />
+            <mxPoint x="660" y="419.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-24" value="離のはじめ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="500" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="365" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-27" value="第二の型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=50;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="419.9999999999999" as="sourcePoint" />
+            <mxPoint x="340" y="419.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-31" value="第二の型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-32" value="離の最後" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="365" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-34" value="第一の型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.52" y="330" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-36" value="第一の型&lt;div&gt;から離れる&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoqVl54cXITUqYbAEmzm-37" value="第二の型&lt;div&gt;が固まる&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
