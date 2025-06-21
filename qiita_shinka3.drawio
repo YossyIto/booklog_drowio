@@ -16,7 +16,7 @@
         <mxCell id="CG-HpWWVkxIXQiKSfwGc-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="240" as="sourcePoint" />
-            <mxPoint x="1040" y="240" as="targetPoint" />
+            <mxPoint x="1020" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CG-HpWWVkxIXQiKSfwGc-4" value="不安定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -150,6 +150,9 @@
             <mxPoint x="920" y="560" as="sourcePoint" />
             <mxPoint x="1000" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CG-HpWWVkxIXQiKSfwGc-34" value="時間" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
