@@ -1,9 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="ページ1" id="ClCoJ_ViRurL54MsnXwp">
-    <mxGraphModel>
+    <mxGraphModel dx="987" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-1" value="深化のステップ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-2" value="① 前提の掘削" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-5" value="② 構造の揺さぶり" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-2" target="W__CkLP6Ctf0l0lCEdv3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="sourcePoint" />
+            <mxPoint x="530" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-7" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.15;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-2" target="W__CkLP6Ctf0l0lCEdv3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="360" as="sourcePoint" />
+            <mxPoint x="520" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-9" value="思考のほぐし&lt;div&gt;（前提との距離をとる）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-10" value="③ 視座の組み替え" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-5" target="W__CkLP6Ctf0l0lCEdv3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="310" as="sourcePoint" />
+            <mxPoint x="330" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-10" target="W__CkLP6Ctf0l0lCEdv3-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="410" as="sourcePoint" />
+            <mxPoint x="410" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-14" value="④ 意味の統合・仮構築" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.683;exitY=0.892;exitDx=0;exitDy=0;entryX=1.017;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-7" target="W__CkLP6Ctf0l0lCEdv3-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="240" as="sourcePoint" />
+            <mxPoint x="610" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.876;entryY=0.009;entryDx=0;entryDy=0;startArrow=classic;startFill=1;entryPerimeter=0;exitX=0.5;exitY=0.895;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-11" target="W__CkLP6Ctf0l0lCEdv3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="320" as="sourcePoint" />
+            <mxPoint x="580" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-17" value="新たな視座／比喩／文脈への跳躍" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-18" value="安定構造の流動化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.017;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-14" target="W__CkLP6Ctf0l0lCEdv3-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="490" as="sourcePoint" />
+            <mxPoint x="440" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-21" value="新しい構造、提案、問いへ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-22" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-5" target="W__CkLP6Ctf0l0lCEdv3-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="270" as="sourcePoint" />
+            <mxPoint x="620" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-26" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W__CkLP6Ctf0l0lCEdv3-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W__CkLP6Ctf0l0lCEdv3-26" target="W__CkLP6Ctf0l0lCEdv3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="110" as="sourcePoint" />
+            <mxPoint x="239.66" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
