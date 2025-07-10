@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="ページ1" id="HrNQQGyfnSYwryRlCgG7">
-    <mxGraphModel>
+    <mxGraphModel dx="815" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-1" value="パターンの要素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-2" value="&lt;div style=&quot;&quot;&gt;パターン名&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-3" value="状況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="130" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-4" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="185" y="175" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-5" value="問題" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="212.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-6" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="217.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-7" value="解決" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="212.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-8" value="結果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-9" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="175" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-10" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-13" value="フォース" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-14" value="フォース&lt;div&gt;の解消&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-15" value="次の&lt;div&gt;状況へ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-16" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-17" value="&lt;div&gt;影響元の&lt;/div&gt;&lt;div&gt;結果&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
