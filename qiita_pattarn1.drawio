@@ -34,7 +34,7 @@
         <mxCell id="2Auouz8vHbMcwG9zhTKm-10" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="135" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Auouz8vHbMcwG9zhTKm-13" value="フォース" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-13" value="フォース&lt;div&gt;の発生&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="175" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Auouz8vHbMcwG9zhTKm-14" value="フォース&lt;div&gt;の解消&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
