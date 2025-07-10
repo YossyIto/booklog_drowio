@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="40" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2Auouz8vHbMcwG9zhTKm-2" value="&lt;div style=&quot;&quot;&gt;パターン名&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="100" width="280" height="170" as="geometry" />
+          <mxGeometry x="120" y="100" width="280" height="260" as="geometry" />
         </mxCell>
         <mxCell id="2Auouz8vHbMcwG9zhTKm-3" value="状況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="130" width="70" height="40" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="2Auouz8vHbMcwG9zhTKm-17" value="&lt;div&gt;影響元の&lt;/div&gt;&lt;div&gt;結果&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-18" value="イラスト" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
