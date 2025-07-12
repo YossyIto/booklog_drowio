@@ -1,11 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="ページ1" id="yvqOTyg9-LKpk_lmMcsU">
-    <mxGraphModel dx="1376" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gR09ck2wySp0KQ0k-fP9-1" value="易経の構造" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-4" value="卦&lt;div&gt;(ケ)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="178.75" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-7" value="六十四卦&lt;div&gt;(8 x 8)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="280" width="80" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-11" value="☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="215" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-12" value="☷" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="135" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-15" value="六爻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="158.75" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-17" value="上卦&lt;div&gt;(ジョウケ)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="142.5" width="90" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-18" value="下卦&lt;div&gt;(カケ)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="218.75" width="90" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-21" value="時間の流れ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="290" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-23" value="&lt;div&gt;三&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;二&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;初爻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gR09ck2wySp0KQ0k-fP9-24" value="&lt;div&gt;上&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;五&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;四爻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
