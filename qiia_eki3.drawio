@@ -49,7 +49,7 @@
         <mxCell id="dQ6VruJ1_32LUMf7wtQJ-16" value="中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-17" value="&lt;div&gt;【陰陽と数字】&lt;/div&gt;&lt;div&gt;陽：一＋三＋五＝九&lt;/div&gt;&lt;div&gt;陰：二＋四＝六、六＝六&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-17" value="&lt;div&gt;【陰陽と数字】&lt;/div&gt;&lt;div&gt;陽：一＋三＋五＝九&lt;/div&gt;&lt;div&gt;陰：二＋四＝六&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="600" y="207.5" width="170" height="65" as="geometry" />
         </mxCell>
         <mxCell id="dQ6VruJ1_32LUMf7wtQJ-18" value="下卦&lt;div&gt;(内卦)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
