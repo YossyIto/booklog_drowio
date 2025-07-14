@@ -4,70 +4,70 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-1" value="卦：乾為天&lt;div&gt;（けんいてん）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-1" value="卦：乾為天&lt;div&gt;（けんいてん）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-4" value="☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-4" value="☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="150" y="135" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-5" value="☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-5" value="☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="150" y="215" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-6" value="&lt;div&gt;乾(天)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-6" value="&lt;div&gt;乾(天)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="145" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-7" value="&lt;div&gt;乾(天)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-7" value="&lt;div&gt;乾(天)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-9" value="&lt;div&gt;陽&lt;/div&gt;&lt;div&gt;陰&lt;/div&gt;&lt;div&gt;陽&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-9" value="&lt;div&gt;陽&lt;/div&gt;&lt;div&gt;陰&lt;/div&gt;&lt;div&gt;陽&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-10" value="性質" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-10" value="性質" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-11" value="&lt;div&gt;三爻&lt;/div&gt;&lt;div&gt;二&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;初爻　&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-11" value="&lt;div&gt;三爻&lt;/div&gt;&lt;div&gt;二&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;初爻　&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-12" value="&lt;div&gt;上爻&lt;/div&gt;&lt;div&gt;五&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;四爻　&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-12" value="&lt;div&gt;上爻&lt;/div&gt;&lt;div&gt;五&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;四爻　&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-13" value="&lt;div&gt;陰&lt;/div&gt;&lt;div&gt;陽&lt;/div&gt;&lt;div&gt;陰&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-13" value="&lt;div&gt;陰&lt;/div&gt;&lt;div&gt;陽&lt;/div&gt;&lt;div&gt;陰&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-14" value="中爻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-14" value="中爻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-15" value="中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-15" value="中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-16" value="中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-16" value="中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-17" value="&lt;div&gt;【陰陽と数字】&lt;/div&gt;&lt;div&gt;陽：一＋三＋五＝九&lt;/div&gt;&lt;div&gt;陰：二＋四＝六、六＝六&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-17" value="&lt;div&gt;【陰陽と数字】&lt;/div&gt;&lt;div&gt;陽：一＋三＋五＝九&lt;/div&gt;&lt;div&gt;陰：二＋四＝六&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="600" y="207.5" width="170" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-18" value="下卦&lt;div&gt;(内卦)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-18" value="下卦&lt;div&gt;(内卦)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-19" value="上卦&lt;div&gt;(外卦)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-19" value="上卦&lt;div&gt;(外卦)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="145" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-20" value="&lt;div&gt;【定位】&lt;/div&gt;&lt;div&gt;正：爻が性質と一致&lt;/div&gt;&lt;div&gt;不正：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻が性質と不一致&lt;/span&gt;&lt;/div&gt;剛健中正：五爻が陽&lt;div&gt;柔順中正：二爻が陰&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-20" value="&lt;div&gt;【定位】&lt;/div&gt;&lt;div&gt;正：爻が性質と一致&lt;/div&gt;&lt;div&gt;不正：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻が性質と不一致&lt;/span&gt;&lt;/div&gt;剛中：五爻が陽&lt;div&gt;柔中：二爻が陰&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="600" y="120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-21" value="定位の判断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-21" value="定位の判断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-22" value="&lt;div&gt;不正&lt;/div&gt;&lt;div&gt;中正&lt;/div&gt;&lt;div&gt;不正&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-22" value="&lt;div&gt;不正&lt;/div&gt;&lt;div&gt;中正&lt;/div&gt;&lt;div&gt;不正&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="120" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-23" value="&lt;div&gt;正&lt;/div&gt;&lt;div&gt;不正&lt;/div&gt;&lt;div&gt;正&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-23" value="&lt;div&gt;正&lt;/div&gt;&lt;div&gt;不正&lt;/div&gt;&lt;div&gt;正&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="200" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
