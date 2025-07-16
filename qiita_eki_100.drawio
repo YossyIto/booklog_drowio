@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5">
   <diagram name="ページ1" id="mY1jggUUZ-PqJJy-1mbn">
-    <mxGraphModel>
+    <mxGraphModel dx="1136" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-1" value="変化の理論&lt;div&gt;～変化に向き合う４つの視点～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-2" value="我々&lt;div&gt;Us&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-3" value="私&lt;div&gt;Me&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-4" value="表出&lt;div&gt;Visible&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-5" value="内面&lt;div&gt;Invisible&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-6" value="成長する&lt;div&gt;Growing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-8" value="覚醒する&lt;div&gt;Awakening&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-9" value="共鳴する&lt;div&gt;Harmonizng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7bm0Vq01euhdjV_xX33Y-10" value="尊敬する&lt;div&gt;Respecting&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="200" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
