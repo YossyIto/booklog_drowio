@@ -1,74 +1,197 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="ページ1" id="sqWsMTIZHtwE_r5JLnB0">
-    <mxGraphModel dx="1048" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-1" value="卦：乾為天&lt;div&gt;（けんいてん）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="480" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-1" value="十二消長卦" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="dQ6VruJ1_32LUMf7wtQJ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="200" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-4" value="☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="150" y="135" width="60" height="50" as="geometry" />
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-5" value="☷&lt;br&gt;☳" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
+          <mxGeometry x="150" y="252.5" width="60" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-5" value="☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
-          <mxGeometry x="150" y="215" width="60" height="50" as="geometry" />
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-7" value="地雷復" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="150" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-6" value="&lt;div&gt;乾(天)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="145" width="60" height="30" as="geometry" />
+        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-19" value="&lt;b&gt;冬至&lt;/b&gt;・&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;小寒&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="120" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-7" value="&lt;div&gt;乾(天)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="225" width="60" height="30" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-1" value="11月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-9" value="&lt;div&gt;陽&lt;/div&gt;&lt;div&gt;陰&lt;/div&gt;&lt;div&gt;陽&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="200" width="40" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-2" value="地沢臨" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-10" value="性質" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="80" width="40" height="40" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-3" value="☷&lt;br&gt;☱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="310" y="252.5" width="60" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-11" value="&lt;div&gt;三爻&lt;/div&gt;&lt;div&gt;二&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;初爻　&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="200" width="40" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-6" value="12月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-12" value="&lt;div&gt;上爻&lt;/div&gt;&lt;div&gt;五&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻&lt;/span&gt;&lt;/div&gt;&lt;div&gt;四爻　&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="120" width="40" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-7" value="大寒・立春" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-13" value="&lt;div&gt;陰&lt;/div&gt;&lt;div&gt;陽&lt;/div&gt;&lt;div&gt;陰&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="120" width="40" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-8" value="1月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-14" value="中爻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="80" width="40" height="40" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-9" value="雨水・啓蟄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-15" value="中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="200" width="40" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-10" value="地天泰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="455" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-16" value="中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="120" width="40" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-11" value="☷&lt;br&gt;☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="470" y="252.5" width="60" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-17" value="&lt;div&gt;【陰陽と数字】&lt;/div&gt;&lt;div&gt;陽：一＋三＋五＝九&lt;/div&gt;&lt;div&gt;陰：二＋四＝六&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="600" y="207.5" width="170" height="65" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-13" value="陰の&lt;div&gt;季節&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="525" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-18" value="下卦&lt;div&gt;(内卦)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="225" width="60" height="30" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-14" value="2月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-19" value="上卦&lt;div&gt;(外卦)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="145" width="60" height="30" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-15" value="&lt;b&gt;春分&lt;/b&gt;・清明" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-20" value="&lt;div&gt;【定位】&lt;/div&gt;&lt;div&gt;正：爻が性質と一致&lt;/div&gt;&lt;div&gt;不正：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻が性質と不一致&lt;/span&gt;&lt;/div&gt;剛中：五爻が陽&lt;div&gt;柔中：二爻が陰&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="600" y="120" width="160" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-16" value="雷天大壮" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="615" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-21" value="定位の判断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="80" width="80" height="40" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-17" value="☳&lt;br&gt;☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="630" y="252.5" width="60" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-22" value="&lt;div&gt;不正&lt;/div&gt;&lt;div&gt;中正&lt;/div&gt;&lt;div&gt;不正&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="120" width="70" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-19" value="3月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQ6VruJ1_32LUMf7wtQJ-23" value="&lt;div&gt;正&lt;/div&gt;&lt;div&gt;不正&lt;/div&gt;&lt;div&gt;正&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="200" width="70" height="80" as="geometry" />
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-20" value="穀雨・立夏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-21" value="4月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-22" value="小満・芒種" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="920" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-23" value="沢天夬" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="775" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-24" value="☱&lt;br&gt;☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="790" y="252.5" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-26" value="乾為天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="935" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-27" value="☰&lt;br&gt;☰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="950" y="252.5" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-29" value="陽の&lt;div&gt;季節&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="245" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-30" value="5月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="920" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-31" value="&lt;b&gt;夏至&lt;/b&gt;・小暑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="920" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-32" value="☰&lt;br&gt;☶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="790" y="532.5" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-33" value="天山遯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="775" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-35" value="処暑・白露" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-36" value="7月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-37" value="大暑・立秋" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="760" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-38" value="6月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="760" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="480" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-40" value="天風姤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="935" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-41" value="☰&lt;br&gt;☴" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="950" y="532.5" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-43" value="天地否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="615" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-44" value="☰&lt;br&gt;☷" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="630" y="532.5" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-45" value="8月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-46" value="&lt;b&gt;秋分&lt;/b&gt;・寒露" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-47" value="☴&lt;br&gt;☷" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="470" y="532.5" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-48" value="風地観" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="455" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-50" value="9月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-51" value="霜降・立冬" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-52" value="10月" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-53" value="小雪・大雪" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-55" value="山地剝" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="295" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-56" value="☶&lt;br&gt;☷" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="310" y="532.5" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-57" value="坤為地" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="135" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf0HBr7XSHJFiXkp45xt-58" value="☷&lt;br&gt;☷" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="150" y="532.5" width="60" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
