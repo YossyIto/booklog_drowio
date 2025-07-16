@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
+  <diagram name="ページ1" id="HrNQQGyfnSYwryRlCgG7">
+    <mxGraphModel dx="1136" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-1" value="パターンと卦" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-2" value="&lt;div style=&quot;&quot;&gt;卦の名前&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="565" y="160" width="280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-3" value="爻辞&lt;div&gt;（伝）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-4" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="630" y="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-5" value="爻辞" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="272.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-6" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="695" y="277.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-7" value="爻辞" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="735" y="272.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-8" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;爻辞&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(吉凶)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="735" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-9" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="755" y="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-10" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="865" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-13" value="爻辞&lt;div&gt;（伝）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="565" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-14" value="爻辞" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="785" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-15" value="卦辞" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="850" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-16" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="515" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-17" value="&lt;div&gt;爻辞&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Auouz8vHbMcwG9zhTKm-18" value="&lt;div&gt;卦の象（？）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="600" y="328.5" width="210" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-1" value="&lt;div style=&quot;&quot;&gt;パターン名&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="125" y="160" width="280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-2" value="状況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-3" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-4" value="問題" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="272.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-5" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="277.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-6" value="解決" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="272.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-7" value="結果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="315" y="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-9" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-10" value="フォース" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-11" value="アクション" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-12" value="新たな&lt;div&gt;状況へ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-14" value="&lt;div&gt;前の&lt;/div&gt;&lt;div&gt;結果から&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-15" value="イラスト" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="328.5" width="210" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-16" value="パターン・ランゲージ&lt;div&gt;パターン&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-17" value="易経&lt;div&gt;卦&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="81edTeSV4EAKtR-jG72S-18" value="記載なし" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
