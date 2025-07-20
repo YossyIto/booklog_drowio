@@ -1,9 +1,213 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5">
   <diagram name="ページ1" id="p6PM9Ao-teBEkODzT2IY">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-1" value="クリエイティブ・ペア&lt;div&gt;各ステージの動き&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-5" value="stage 0 : 遭遇前" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="270" as="sourcePoint" />
+            <mxPoint x="175" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="sourcePoint" />
+            <mxPoint x="280" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-8" value="似ている&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ベクトル&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="240" as="sourcePoint" />
+            <mxPoint x="515" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-14" value="&lt;div&gt;似ているところをベースに&lt;/div&gt;大きく違うところで話が広がる" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-15" value="stage 1 : 遭遇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-16" value="A" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-17" value="A" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="275" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-18" value="B" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-19" value="B" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="240" as="sourcePoint" />
+            <mxPoint x="860" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="240" as="sourcePoint" />
+            <mxPoint x="860" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-23" value="&lt;div&gt;暗黙知の共有が進み&lt;/div&gt;&lt;div&gt;固有のインターフェースが確立&lt;/div&gt;&lt;div&gt;私たち(we)の意識&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="350" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-24" value="stage 2 : 融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-25" value="A" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="780" y="275" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-26" value="B" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="840" y="250" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="200" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="240" as="sourcePoint" />
+            <mxPoint x="1180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1185" y="240" as="sourcePoint" />
+            <mxPoint x="1175" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-30" value="&lt;div&gt;得意な役割が確立する（出ている所）&lt;/div&gt;&lt;div&gt;お互いの複雑な思考や行動を受け入れる&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="350" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-31" value="stage 3 : 弁証" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-32" value="A" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="275" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-33" value="B" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="250" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="520" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="560" as="sourcePoint" />
+            <mxPoint x="1220" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="560" as="sourcePoint" />
+            <mxPoint x="1150" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-37" value="&lt;div&gt;違いを生む&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;空間と&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;時間が離れる&lt;/span&gt;&lt;/div&gt;&lt;div&gt;最接近ポイントを保つ工夫が必要&lt;/div&gt;&lt;div&gt;お互いに驚き（サプライズ）を持とうとする&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="670" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-38" value="stage 4 : 距離" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-39" value="A" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="595" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-40" value="B" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="570" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="530" as="sourcePoint" />
+            <mxPoint x="1200" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="560" as="sourcePoint" />
+            <mxPoint x="900" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="832" y="560" as="sourcePoint" />
+            <mxPoint x="822" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-46" value="&lt;div&gt;私たち(we)の面積が最も大きい状態&lt;/div&gt;&lt;div&gt;協力と競争の関係ができる&lt;/div&gt;&lt;div&gt;お互いが継続させる力を持つ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="670" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-47" value="stage 5 : 絶頂" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-48" value="A" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="595" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-49" value="B" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="570" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="560" as="sourcePoint" />
+            <mxPoint x="620" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="560" as="sourcePoint" />
+            <mxPoint x="500" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-53" value="&lt;div&gt;変化（成功など）によりベクトルが変化する&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;許容できない違いによる不協和が起こる&lt;/span&gt;&lt;/div&gt;&lt;div&gt;創造的な成果が生み出せなくなる&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="670" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-54" value="stage 6 : 中断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-55" value="A" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="525" y="580" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-56" value="B" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR94T9C0uJdvZNdpTWI1-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="570" as="sourcePoint" />
+            <mxPoint x="570" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
