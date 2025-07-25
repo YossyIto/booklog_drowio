@@ -1,9 +1,134 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="ページ1" id="N5yJJwqIqLR0AD7fO1OA">
-    <mxGraphModel>
+    <mxGraphModel dx="860" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-1" value="出来事と記憶の構造" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="400" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-3" value="前の状況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="265" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="95PW_a2_ffTu_V4c-z1w-4" target="95PW_a2_ffTu_V4c-z1w-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="130" />
+              <mxPoint x="140" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-4" value="次の状況" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="265" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-10" value="Observe&lt;div&gt;観察&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="305" y="265" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-11" value="Orient&lt;div&gt;状況判断&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="425" y="160" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-12" value="Decide&lt;div&gt;意思決定&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="265" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-13" value="Act&lt;div&gt;行動&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="425" y="370" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="500" as="sourcePoint" />
+            <mxPoint x="420" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-16" value="記銘&lt;div&gt;Encodeing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-17" value="保持&lt;div&gt;Storage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-18" value="想起&lt;div&gt;Retrieval&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="540" as="sourcePoint" />
+            <mxPoint x="540" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="270" as="sourcePoint" />
+            <mxPoint x="425" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="400" as="sourcePoint" />
+            <mxPoint x="395" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="240" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="370" as="sourcePoint" />
+            <mxPoint x="535" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-30" value="記憶と引出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-31" value="OODA LOOP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-32" value="&lt;div&gt;感知/検知/再認&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-33" value="&lt;div&gt;再生&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="324.58000000000004" as="sourcePoint" />
+            <mxPoint x="270" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="324.58" as="sourcePoint" />
+            <mxPoint x="750" y="324.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-36" value="出来事" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="355" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-37" value="出来事&lt;div&gt;の変化&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="355" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-38" value="文脈(コンテキスト)の確定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-39" value="学習による対応" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-40" value="心の&lt;div&gt;はたらき&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="237.5" width="165" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-42" value="[不作為の罪]&lt;div&gt;一過性/不注意/&lt;/div&gt;&lt;div&gt;妨害&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="95PW_a2_ffTu_V4c-z1w-43" value="[作為の罪]&lt;div&gt;混乱/暗示/書き換え&lt;/div&gt;&lt;div&gt;/つきまとい&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="150" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
