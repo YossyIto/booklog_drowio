@@ -49,6 +49,9 @@
         <mxCell id="e3cjcUw239tZRnHKXQpr-17" value="灯篭" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="e3cjcUw239tZRnHKXQpr-18" value="手水舎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
