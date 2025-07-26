@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="ページ1" id="VT9vas-H33iFBnaxc0BY">
-    <mxGraphModel>
+    <mxGraphModel dx="1032" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="125" y="205" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-1" value="パーソナルスペースと&lt;div&gt;ウチ、ソト、ヨソ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-6" value="公衆距離&lt;div&gt;360-&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-7" value="社会距離&lt;div&gt;120-360&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-8" value="個体距離&lt;div&gt;45-120&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-9" value="親密距離&lt;div&gt;0-45-&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-10" value="パーソナルスペース" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="585" y="205" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-15" value="ヨソ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-16" value="ソト" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-17" value="ウチ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUTAWqwDXMJXG5Cj6LHW-19" value="ウチ、ソト、ヨソ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
