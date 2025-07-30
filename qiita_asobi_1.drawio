@@ -4,17 +4,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EhSUfmbXzbKoXt8E2dOw-1" value="遊びの&quot;空間&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-1" value="遊びの&quot;空間&quot; ①" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EhSUfmbXzbKoXt8E2dOw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="280" height="160" as="geometry" />
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-4" value="安定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EhSUfmbXzbKoXt8E2dOw-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="EhSUfmbXzbKoXt8E2dOw-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="160" height="40" as="geometry" />
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-6" value="不安定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="sourcePoint" />
+            <mxPoint x="240" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-8" value="余白&lt;div&gt;おおい&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-9" value="余白&lt;div&gt;少ない&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-10" value="飽きる" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-11" value="遊び" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-12" value="定型の仕事&lt;div&gt;日常の作業&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-13" value="災害" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="300" as="sourcePoint" />
+            <mxPoint x="159.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EhSUfmbXzbKoXt8E2dOw-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="199.5" as="sourcePoint" />
+            <mxPoint x="255" y="199.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
