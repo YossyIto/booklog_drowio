@@ -1,0 +1,61 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="cP9uIEpzttqN5rxpSAbw">
+        <mxGraphModel dx="747" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2H462rarafApNkUSx5-_-1" value="虚構と糸&lt;div&gt;～SF思考～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="80" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="360" y="280" as="sourcePoint"/>
+                        <mxPoint x="360" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="不確実な可能性を重視し、未来を描く" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="130" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="endArrow=classic;html=1;" parent="1" edge="1" target="54">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="280" as="sourcePoint"/>
+                        <mxPoint x="480" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="280" as="sourcePoint"/>
+                        <mxPoint x="160" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="確実なトレンドを重視し、未来を予測する" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="410" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="人&lt;div&gt;起点&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="265" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="社会・&lt;div&gt;マクロ&lt;/div&gt;&lt;div&gt;起点&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="250" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="SF思考&lt;div&gt;(10～50年後)&lt;/div&gt;&lt;div&gt;未来の言葉やキャラクターからありたい社会を考え、バックキャストで新産業や、開発技術や制度をひもといていく手法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="170" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="デザインシンキング&lt;div&gt;(～10年後)&lt;/div&gt;&lt;div&gt;現在のユーザー目線の深掘りを徹底した手法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="285" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="マクロトレンド分析&lt;div&gt;(～10年後)&lt;/div&gt;&lt;div&gt;人口動態などの確実な要素を積み重ね、将来市場を予測する手法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="285" width="180" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="シナリオプランニング&lt;div&gt;(～20年後)&lt;/div&gt;&lt;div&gt;分岐が発生しうる制度上や政治上の制約などインパクトの大きい要素を抽出し、複数シナリオを描く検討手法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="170" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="360" y="280" as="sourcePoint"/>
+                        <mxPoint x="360.5" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
