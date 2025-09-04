@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="Iqh0p4z0CSAQo3-YcA2V" name="ページ1">
+        <mxGraphModel dx="816" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="120" width="230" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="武士道&lt;div&gt;～武士&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;初心集&lt;/span&gt;～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="70" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="120" width="230" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="主君" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="170" width="80" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="常法" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="170" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="変体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="290" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="内法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="130" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="外法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="130" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="常法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="170" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="兵法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="210" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="軍法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="290" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="戦法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="330" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="忠孝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="480" width="80" height="55" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,187 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="CPpaSzQVmabbcuSvn5hp">
+        <mxGraphModel dx="816" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="「判断力批判」&lt;div&gt;感情能力&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="120" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="手段からの解放" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="「実践理性批判」&lt;div&gt;欲求能力&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="120" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="120" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="能力の&lt;div&gt;高次の&lt;/div&gt;&lt;div&gt;実現&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="200" width="80" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="②&lt;div&gt;端的に善いもの：&lt;/div&gt;&lt;div&gt;道徳的存在者としての人間の目的形式（定言命法）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="200" width="140" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="①&lt;div&gt;美しいもの：&lt;/div&gt;&lt;div&gt;目的なき合目的性&lt;/div&gt;&lt;div&gt;崇高なもの：&lt;/div&gt;&lt;div&gt;人間性という目的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="200" width="140" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="④&lt;div&gt;快適なもの：&lt;/div&gt;&lt;div&gt;享受の快&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="320" width="140" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="能力の&lt;div&gt;低次の&lt;/div&gt;&lt;div&gt;実現&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="320" width="80" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="③&lt;div&gt;間接的に善いもの：&lt;/div&gt;&lt;div&gt;設定された目的にとって手段として有用なもの&lt;/div&gt;&lt;div&gt;内容（生存、安楽な暮らし等）&lt;/div&gt;&lt;div&gt;目的-手段連関&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="320" width="140" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="120" as="sourcePoint"/>
+                        <mxPoint x="490" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="感性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="構想力：&lt;div&gt;想像力、図式化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="悟性：&lt;div&gt;概念的思考、規則性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="理性：&lt;div&gt;理念&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="①美しいもの" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="120" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="280" y="290" as="sourcePoint"/>
+                        <mxPoint x="280" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="図式への&lt;div&gt;応答&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="255" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="329.5" y="250" as="sourcePoint"/>
+                        <mxPoint x="329.5" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="概念なしの図式機能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="250" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="感性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="構想力：&lt;div&gt;想像力、図式化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="悟性：&lt;div&gt;概念的思考、規則性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="理性：&lt;div&gt;理念&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="299.58" y="520" as="sourcePoint"/>
+                        <mxPoint x="299.58" y="560" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="560" as="sourcePoint"/>
+                        <mxPoint x="230" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="図式の圧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="550" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="①崇高なもの" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="400" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="人間性&lt;div&gt;小さな存在&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="524.5" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="480" as="sourcePoint"/>
+                        <mxPoint x="170" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="209.58" as="sourcePoint"/>
+                        <mxPoint x="170" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="歓び" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="160" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;div&gt;崇高&lt;/div&gt;圧倒" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="430" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="感性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="530" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="構想力：&lt;div&gt;想像力、図式化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="530" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="悟性：&lt;div&gt;概念的思考、規則性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="650" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="理性：&lt;div&gt;理念&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="650" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="④快適なもの" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="480" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="目的のない&lt;div&gt;快&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="580" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="感性" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="構想力：&lt;div&gt;想像力、図式化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="悟性：&lt;div&gt;概念的思考、規則性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="理性：&lt;div&gt;理念&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="②端的に善いもの" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="670" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="善であるから、善を為す" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="770" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="手段&lt;div&gt;★&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="目的" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="③間接的に善いもの" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="755" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="580" y="870" as="sourcePoint"/>
+                        <mxPoint x="630" y="870" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" value="「目的とはまさに手段を正当化するもののことである」&lt;div&gt;ハンナ・アレント&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="910" width="320" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="「依存症（アディクション）の対義語は、&lt;div&gt;人とのつながり（コネクション）である」&lt;div&gt;ヨハン・ハリ&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="970" width="320" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
