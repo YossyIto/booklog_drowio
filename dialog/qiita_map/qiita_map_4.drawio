@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram name="02" id="YMj1xpAl_SfOTKT0soET">
+        <mxGraphModel dx="998" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-1" parent="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="250" y="150" width="130" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="100" y="150" width="130" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-4" value="地図&lt;div&gt;～安全の欲求～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="39.99999999999999" y="40" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="良い" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="200" y="90" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;div&gt;最低レベル&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="110" y="240" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=classic;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="239" y="360" as="sourcePoint"/>
+                        <mxPoint x="239" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="悪い" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="200" y="360" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="240" as="sourcePoint"/>
+                        <mxPoint x="400" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="既存&lt;div&gt;物質&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="20" y="220" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="新しい&lt;div&gt;物質&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="400" y="220" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;div&gt;NG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="110" y="280" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;div&gt;OK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="110" y="160" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="制度で制限できる&lt;div&gt;領域&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="110" y="110" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="制度で制限&lt;div&gt;できない&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;領域&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="270" y="110" width="110" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

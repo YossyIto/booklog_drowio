@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram name="02" id="YMj1xpAl_SfOTKT0soET">
+        <mxGraphModel dx="693" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-1" parent="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-4" value="地図&lt;div&gt;～空間的リテラシー～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="40" y="80" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="0" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="81.26" y="120" width="277.49" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="空間的能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="165.01" y="350" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.241;exitY=0.132;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1" source="0">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="330" as="sourcePoint"/>
+                        <mxPoint x="320" y="332" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.241;exitY=0.132;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="155.75" y="250" as="sourcePoint"/>
+                        <mxPoint x="290" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="空間的思考" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="165.01" y="250" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="空間的リテラシー" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="166.26" y="170" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font&gt;グラフィカシー&lt;/font&gt;&lt;div&gt;&lt;font&gt;地図リテラシー&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="151.26" y="194" width="140" height="56" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="若林芳樹「デジタル社会の地図の読み方　作り方」&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;P168&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="240" y="80" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="空間的概念&#xa;空間的表現&#xa;空間的推論" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="165.01" y="270" width="104.99" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

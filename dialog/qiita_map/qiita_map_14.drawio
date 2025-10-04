@@ -1,0 +1,154 @@
+<mxfile host="65bd71144e">
+    <diagram name="02" id="YMj1xpAl_SfOTKT0soET">
+        <mxGraphModel dx="1010" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-1" parent="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-4" value="地図&lt;div&gt;～ラカン・シェーマRSI～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="40" y="40" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="ML3krrQk0YiTmpszw3Px-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="160" as="sourcePoint"/>
+                        <mxPoint x="230" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Φ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="60" y="130" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="endArrow=none;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="400" as="sourcePoint"/>
+                        <mxPoint x="320" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="" style="endArrow=none;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="400" as="sourcePoint"/>
+                        <mxPoint x="320" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="" style="endArrow=none;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="400" as="sourcePoint"/>
+                        <mxPoint x="320" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="" style="endArrow=none;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="310" as="sourcePoint"/>
+                        <mxPoint x="230" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=none;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="160" as="sourcePoint"/>
+                        <mxPoint x="320" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="160" as="sourcePoint"/>
+                        <mxPoint x="80" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="" style="endArrow=none;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="400" as="sourcePoint"/>
+                        <mxPoint x="80" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="50" y="399" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="300" y="399" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="300" y="130" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="S" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="80" y="160" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="S" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FF3333;fontFamily=Comic Sans MS;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="220" y="310" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="R" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FF3333;fontFamily=Comic Sans MS;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="160" y="240" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FF3333;fontFamily=Comic Sans MS;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="120" y="190" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="a&#39;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#fff2cc;strokeColor=none;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="80" y="340" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#fff2cc;strokeColor=none;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="250" y="160" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="270" y="369" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#fff2cc;strokeColor=none;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="40" y="290" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="i" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="210" y="130" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="S" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FF3333;fontFamily=Comic Sans MS;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="494" y="150" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="R" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FF3333;fontFamily=Comic Sans MS;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="494" y="120" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#FF3333;fontFamily=Comic Sans MS;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="494" y="180" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="現実界" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="544" y="120" width="176" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="3つの&lt;div&gt;世界&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="380" y="120" width="100" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="象徴界" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="544" y="150" width="176" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="想像界" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="544" y="180" width="176" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="4つの&lt;div&gt;頂点&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="380" y="220" width="100" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="小文字の他者&lt;div&gt;鏡像の他者&lt;/div&gt;&lt;div&gt;イメージ&lt;/div&gt;&lt;div&gt;自我&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="550" y="320" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="４つの&lt;div&gt;主要な要素&lt;/div&gt;&lt;div&gt;（現実界の境界)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="380" y="320" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="a&amp;nbsp;&lt;div&gt;a&#39;&amp;nbsp;&lt;/div&gt;&lt;div&gt;i&lt;/div&gt;&lt;div&gt;m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="494" y="320" width="56" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Φ&lt;div&gt;I&lt;/div&gt;&lt;div&gt;M&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="494" y="220" width="56" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="想像的ファルス(欲望、欠如）&lt;div&gt;想像界&lt;/div&gt;&lt;div&gt;象徴的母&lt;/div&gt;&lt;div&gt;象徴的父&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="560" y="220" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="主体と他者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="380" y="50" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="S" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="487" y="50" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="487" y="80" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="主のシニフィアン&lt;div&gt;（指すもの、意味するもの）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="537" y="50" width="183" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="大文字の他者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="540" y="80" width="180" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

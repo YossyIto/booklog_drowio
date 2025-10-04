@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram name="02" id="YMj1xpAl_SfOTKT0soET">
+        <mxGraphModel dx="736" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-1" parent="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-4" value="地図&lt;div&gt;～偶然～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="79.99999999999999" y="120" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="80" y="200" width="320" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="必然性&lt;div&gt;あり&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="130" y="230" width="130" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="予期している" style="ellipse;whiteSpace=wrap;html=1;opacity=50;strokeColor=#d6b656;fillColor=#fff2cc;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="210" y="230" width="140" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="必然性なし&lt;div&gt;&amp;nbsp;かつ&lt;div&gt;予期していない&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="240" y="339" width="110" height="49" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="偶然の領域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="150" y="349" width="81.26" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,130 @@
+<mxfile host="65bd71144e">
+    <diagram name="02" id="YMj1xpAl_SfOTKT0soET">
+        <mxGraphModel dx="866" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-1" parent="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="70" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="680" y="460" width="220" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="170" y="440" width="208.74" height="188.91" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="200" y="160" width="90" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-4" value="地図&lt;div&gt;～視野と方向～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="40" y="80" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="0" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="130" y="190" width="208.74" height="114.38" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fontColor=none;noLabel=1;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="90" y="240" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="索引" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="215" y="160" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="一&lt;div&gt;二&lt;/div&gt;&lt;div&gt;三&lt;/div&gt;&lt;div&gt;四&lt;/div&gt;&lt;div&gt;五&lt;/div&gt;&lt;div&gt;六&lt;/div&gt;&lt;div&gt;七&lt;/div&gt;&lt;div&gt;八&lt;/div&gt;&lt;div&gt;九&lt;/div&gt;&lt;div&gt;十&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="215" y="195" width="60" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="見ようとしている範囲" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="350" y="228.29" width="140" height="37.81" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="見えてしまう範囲" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="350" y="280" width="140" height="37.81" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="130" y="212.19" width="208.74" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="170" y="475.47" width="208.74" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="170" y="525.47" width="208.74" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="中心視(１～2度)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="570" y="300" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="有効視野&lt;div&gt;(約20度）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="430" y="554.38" width="110" height="37.81" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="544.91" as="sourcePoint"/>
+                        <mxPoint x="420" y="524" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="410" y="595.47" as="sourcePoint"/>
+                        <mxPoint x="410" y="475.47" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="625.47" as="sourcePoint"/>
+                        <mxPoint x="400" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="周辺視野&lt;div&gt;(約45度）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="430" y="591.1" width="110" height="37.81" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="鉛直視野&lt;div&gt;（上下）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="100" y="440" width="60" height="55.47" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="水平視野&lt;div&gt;（左右）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="550" y="170" width="60" height="55.47" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="710" y="143.01" width="161.11" height="179.29" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="711.11" y="185.07999999999998" width="161.44" height="93.92" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="710" y="222.02999999999997" width="158.74" height="21.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800.56" y="330" as="sourcePoint"/>
+                        <mxPoint x="780.56" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="840" y="340" as="sourcePoint"/>
+                        <mxPoint x="750" y="341.1" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="880" y="350" as="sourcePoint"/>
+                        <mxPoint x="700" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="有効視野&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;(約30度）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="570" y="322.29999999999995" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="周辺視野&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;(約100度）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="570" y="345.47" width="120" height="14.53" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="730" y="475.47" width="119.37" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="779.37" y="495.47" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="中心視&lt;div&gt;(１～2度)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="440" y="510" width="100" height="34.46" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="上よりに中心視があり&lt;div&gt;横長の楕円となる&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="719.37" y="628.91" width="150.63" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="合成視野&lt;div&gt;（平面）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ML3krrQk0YiTmpszw3Px-1">
+                    <mxGeometry x="550" y="440" width="60" height="55.47" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

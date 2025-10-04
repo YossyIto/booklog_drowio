@@ -1,0 +1,61 @@
+<mxfile host="65bd71144e">
+    <diagram name="02" id="YMj1xpAl_SfOTKT0soET">
+        <mxGraphModel dx="933" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-1" parent="ML3krrQk0YiTmpszw3Px-0"/>
+                <mxCell id="19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="575" y="200" width="250" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="305" y="200" width="250" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="40" y="200" width="250" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-4" value="地図&lt;div&gt;～承認欲求～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="40" y="10" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ML3krrQk0YiTmpszw3Px-6" value="自身" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="370" y="60" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="身体的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="105" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="創造的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="370" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="空間的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="105" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="制度的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="640" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="感情的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="370" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="記憶的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="640" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="象徴的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="640" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="境界的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="105" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="周期的承認" style="rounded=1;whiteSpace=wrap;html=1;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="370" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="接触と空間" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="110" y="200" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="交流と時間" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="375" y="200" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="集団と関係" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ML3krrQk0YiTmpszw3Px-1" vertex="1">
+                    <mxGeometry x="645" y="200" width="110" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

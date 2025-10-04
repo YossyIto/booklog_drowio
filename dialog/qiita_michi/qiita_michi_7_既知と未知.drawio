@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="5z0QLxjCDmGpfmo5USfk">
+        <mxGraphModel dx="998" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="EhSUfmbXzbKoXt8E2dOw-1" value="コンセプト&lt;div&gt;～既知と未知～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="EhSUfmbXzbKoXt8E2dOw-8" value="これまで&lt;div&gt;未知&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="180" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="EhSUfmbXzbKoXt8E2dOw-9" value="これまで&lt;div&gt;既知&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="340" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="EhSUfmbXzbKoXt8E2dOw-10" value="未知の既知化&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;・新しい体験&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;・コンセプトづくり&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="140" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="EhSUfmbXzbKoXt8E2dOw-11" value="未知の未知化&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;・無知の知&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="140" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="EhSUfmbXzbKoXt8E2dOw-12" value="既知の既知化&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;・道徳の名著&lt;/div&gt;&lt;div&gt;・習慣&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="300" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="EhSUfmbXzbKoXt8E2dOw-13" value="既知の未知化&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;・客観視&lt;/div&gt;&lt;/div&gt;&lt;div&gt;・内省&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="300" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="これから&lt;br&gt;&lt;div&gt;未知&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="440" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="280" as="sourcePoint"/>
+                        <mxPoint x="400" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="240" y="120" as="sourcePoint"/>
+                        <mxPoint x="240" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="これから&lt;br&gt;&lt;div&gt;既知&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="440" width="80" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
