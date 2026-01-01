@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="Iqh0p4z0CSAQo3-YcA2V" name="01">
+        <mxGraphModel dx="1245" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="長期思考&lt;div&gt;～西暦3000年の人類～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="40" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="a) 必要条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="110" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="b) 十分条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="110" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="必要な資源がある&lt;div&gt;（水、食料、エネルギー減）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="160" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="継続的に人類が存在する" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="人類が生活できる&lt;div&gt;環境がある&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="160" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="外的挑戦に対抗できる&lt;div&gt;(惑星外 or その他）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="あ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="160" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="あ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="あ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="160" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="あ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
