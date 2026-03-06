@@ -1,0 +1,121 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="4HgTYoFACG-caNTI2MGD">
+        <mxGraphModel dx="1556" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="07Ang8cjGGsQBQ0ae3U9-1" value="Think CIVILITY&lt;div&gt;～ Mastering Civility : A Manufest for the Workshplace ～&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="840" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="善い実践" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="100" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="10/5&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&amp;nbsp;ウェイ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;10feet 以内に近づいたら目を合わせる&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;5feet以内に近づいたら声をかける&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="160" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="自分のふるまいに気づく" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="42.5" y="475" width="267.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="方法１&lt;div&gt;他人から&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;フィードバックをもらう&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="535" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="方法２&lt;div&gt;できるコーチの指導を受ける&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="595" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="方法３&lt;div&gt;同僚や友人に協力してもらい&lt;/div&gt;&lt;div&gt;チームで改善に取り組む&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="655" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="方法４&lt;div&gt;ゴールドスミス識&lt;/div&gt;&lt;div&gt;３６０度フィードバックを利用する&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="715" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="方法５&lt;div&gt;人の感情を読み取る訓練をする&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="775" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="方法６&lt;div&gt;毎日、日記をつけてみる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="835" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="方法７&lt;br&gt;&lt;div&gt;「食う、眠る、動く」で自分を大切にする&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="895" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="心得" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="100" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="原則１&lt;div&gt;礼節ある人は、笑顔を絶やさない&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="160" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="原則２&lt;div&gt;礼節ある人は、相手を尊重する&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="220" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="原則３&lt;div&gt;礼節ある人は、人の話に耳を傾ける&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="280" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="RASA&lt;div&gt;受け止める(Receive)&lt;/div&gt;&lt;div&gt;尊重する(Appriciate)&lt;/div&gt;&lt;div&gt;要約する(Summarize)&lt;/div&gt;&lt;div&gt;質問をする(Ask questions)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="250" width="260" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="話す：聞く＝１：２がよい" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="622.5" y="350" width="257.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="無意識の偏見を抑制するには、&lt;div&gt;相手と自分の共通点に注目すること&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="622.5" y="415" width="257.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="まず、否定をなくす" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="622.5" y="475" width="257.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="原則" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="100" width="270" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="心得１&lt;div&gt;与える人になる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="160" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="心得２&lt;br&gt;&lt;div&gt;成果を共有する&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="220" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="心得３&lt;div&gt;褒め上手な人になる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="280" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="心得４&lt;div&gt;フィードバック上手になる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="340" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="心得５&lt;div&gt;意義を共有する&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="400" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;div&gt;1回きりで有効なリソースの共有&lt;/div&gt;情報的リソース&lt;div&gt;社会的リソース&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="622.5" y="535" width="257.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;div&gt;守るべき&lt;/div&gt;&lt;div&gt;価値観を伝え続ける&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="622.5" y="595" width="257.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="&lt;div&gt;礼節の高さを評価する&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="622.5" y="655" width="257.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="社内ネットワークマップを作る" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="622.5" y="715" width="257.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;未来に目を向けるための&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;７つの方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="475" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="方法１&lt;div&gt;目標を定め、進歩を実感する&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="535" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="方法２&lt;div&gt;自分を成長させてくれるものを見つける&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="595" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="方法３&lt;div&gt;メンターの助けを借りる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="655" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="方法４&lt;div&gt;食事、睡眠、運動、&lt;/div&gt;&lt;div&gt;マインドフルネスを活用する&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="715" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="方法５&lt;div&gt;仕事に意味を見出す&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="775" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="方法６&lt;div&gt;社内外で良い人間関係を築く&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="835" width="260" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="方法７&lt;div&gt;社外の活動で成功を目指す&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="895" width="260" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
