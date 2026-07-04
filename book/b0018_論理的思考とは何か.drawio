@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1150" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="論理的思考とは何か&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="40" width="770" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;論理的であること＝&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;「読み手にとって記述に必要な要素が&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;読み手の期待する順番に並んでいることから生まれる感覚である」&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="100" width="380" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="350" y="380" as="sourcePoint"/>
+                        <mxPoint x="670" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="124" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="510" y="220" as="sourcePoint"/>
+                        <mxPoint x="510" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="125" value="形式合理性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="190" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="実質合理性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="540" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="主観的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="360" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="客観的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="360" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="エッセイ（アメリカ）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;序論：主張&lt;/div&gt;&lt;div&gt;本論：主張を支持する３つの根拠（事実）&lt;/div&gt;&lt;div&gt;結論：主張を別の言葉で繰り返す&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="200" width="230" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="経済領域&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;論証・説得・効率性&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="255" width="120" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="法技術領域&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;普遍的真理の保存&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="255" width="120" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="社会領域&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;共感・間主観性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="410" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="政治領域&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;矛盾の解決・可能性の吟味&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="400" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="感想文（日本）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;序論：書く対象の背景&lt;/div&gt;&lt;div&gt;本論：書き手の体験&lt;/div&gt;&lt;div&gt;結論：体験後の感想＝体験から得られた成長と今後の心構え&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="400" width="230" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" value="エンシャー（イラン）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;序論：主題の背景&lt;/div&gt;&lt;div&gt;本論：主題を説明する３段落&lt;/div&gt;&lt;div&gt;細かな主題群の３つの展開や３つの具体例など&lt;/div&gt;&lt;div&gt;結論：全体をまとめ、ことわざ・詩の一節・神への感謝のいずれかで結ぶ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="200" width="230" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="ディセルタシオン（フランス）&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;導入：概念の定義、問題提起、３つのといによる全体構成の提示&lt;/div&gt;&lt;div&gt;展開：弁証法&lt;/div&gt;&lt;div&gt;a 定立（正：テーゼ）&lt;/div&gt;&lt;div&gt;b&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&amp;nbsp;反&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;定立（&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;反&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;：アンチテーゼ）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;c 総合（合：ジンテーゼ）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;結論：全体の議論をまとめて問いに答え、次の弁証法を導く問いを提示して終わる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="400" width="230" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;論理的思考とは何か&lt;/span&gt;&amp;nbsp;P73 表2-1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;論理的思考とは何か&lt;/span&gt;&amp;nbsp;P64 図1-2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;「論理的思考」の文化的基盤 P240 図7-1　を統合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="100" width="330" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

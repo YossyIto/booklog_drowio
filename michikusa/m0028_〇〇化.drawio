@@ -1,0 +1,81 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1404" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="174" value="下地" parent="0"/>
+                <mxCell id="178" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="174" vertex="1">
+                    <mxGeometry x="110" y="70" width="700" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" style="" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="&lt;div&gt;４つの世代、〇〇化&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="80" width="440" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="上" parent="0"/>
+                <mxCell id="179" value="1世代&lt;div&gt;快適化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="120" y="120" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" value="三種の神器(3C)&lt;div&gt;カラーテレビ&lt;/div&gt;&lt;div&gt;クーラー&lt;/div&gt;&lt;div&gt;カー&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="360" y="120" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" value="1945-1975" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="240" y="120" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="182" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;2世代&lt;/span&gt;&lt;/div&gt;個別化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="120" y="200" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ウォークマン(1979)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;パーソナルコンピュータ&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Apple II(1977)/&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;PC-8000(1979)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;ファミリーコンピュータ(1983)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;PlayStation(1994)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="360" y="200" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="1975-1995" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="240" y="200" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;3世代&lt;/span&gt;&lt;/div&gt;情報化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="120" y="280" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="186" value="Windows95(1995)&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;DVD(1996)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Google(1998)&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;iPod(2001)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;Facebook(2004)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="360" y="280" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="187" value="1995-2005" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="240" y="280" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="188" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;4世代&lt;/span&gt;&lt;/div&gt;クラウド化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="120" y="360" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="189" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Youtube(2005)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ニコニコ動画(2006)&lt;/div&gt;&lt;div&gt;Twitter(2006)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;iPhone(2007)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;ChatGPT(2022)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="360" y="360" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="190" value="2005-2026*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="240" y="360" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="192" value="快適な環境&lt;div&gt;家族や周りと共有&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="580" y="120" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="193" value="よいと思われること" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="22">
+                    <mxGeometry x="580" y="80" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="194" value="個々の趣味&lt;div&gt;サブカルチャーの多様性&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="580" y="200" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="195" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="580" y="280" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="196" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="580" y="360" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="201" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;5世代?&lt;/span&gt;&lt;/div&gt;自動化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="120" y="450" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="202" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="360" y="450" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="203" value="2005-2026*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="240" y="450" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="204" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="22">
+                    <mxGeometry x="580" y="450" width="220" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

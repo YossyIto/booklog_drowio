@@ -1,0 +1,53 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1145" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <object label="" id="0">
+                    <mxCell/>
+                </object>
+                <mxCell id="299" value="下地" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="30" y="30" width="500" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" style="" parent="0"/>
+                <mxCell id="622" value="第１章　多読・少読・広読・狭読" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="120" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="623" value="第２章　多様性を育てていく" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="160" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="624" value="第３章　読書の方法をさぐる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="210" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="625" value="第４章　読書することは編集すること" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="250" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="626" value="第５章　自分に合った読書スタイル" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="300" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="627" value="第６章　キーブックを選ぶ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="340" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="628" value="第７章　読書の未来" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="390" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="630" value="本と&lt;div&gt;世界の広がり&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="120" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="631" value="本と&lt;div&gt;コミュニケーション&lt;/div&gt;&lt;div&gt;またはモデル&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="210" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="632" value="本と&lt;div&gt;根っこ&lt;/div&gt;&lt;div&gt;または大河&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="300" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="633" value="本と&lt;div&gt;地図と地層&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="390" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="471" value="多読術&lt;div&gt;目次&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="40" width="480" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,101 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1137" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <object label="" id="0">
+                    <mxCell/>
+                </object>
+                <mxCell id="299" value="下地" style="" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="70" y="60" width="1060" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" style="" parent="0"/>
+                <mxCell id="630" value="step0&lt;div&gt;無知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="120" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="631" value="step1&lt;div&gt;無知から未知へ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="120" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="633" value="step2&lt;div&gt;未知から知へ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="120" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="634" value="本は、すでにテキストが入っている&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;ノートである&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="200" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="636" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;外側と出会う&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;表紙、背表紙&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="200" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="637" value="目次と出会う" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="200" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="638" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="300" as="sourcePoint"/>
+                        <mxPoint x="270" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="639" value="出会いの場&lt;div&gt;本屋、図書館、カフェ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="420" width="600" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="640" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;タイトルと出会う&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="250" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="641" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;カバーと出会う&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="300" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="642" value="目次から想像する" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="260" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="643" value="テクスチャ―を味わう" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="360" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="644" value="偶然&lt;div&gt;接触&lt;/div&gt;&lt;div&gt;贈り物&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="200" width="120" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="645" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="455" y="299.5" as="sourcePoint"/>
+                        <mxPoint x="505" y="299.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="646" value="読む場（編む場）&lt;div&gt;図書館、カフェ、&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;自室&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="420" width="360" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="648" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="700" y="250" as="sourcePoint"/>
+                        <mxPoint x="750" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="651" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="599.5" y="310" as="sourcePoint"/>
+                        <mxPoint x="599.5" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="652" value="知のマップ&lt;div&gt;ドラフト版&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="360" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="653" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="700" y="379.5" as="sourcePoint"/>
+                        <mxPoint x="750" y="379.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="654" value="知のマップ&lt;div&gt;リライト版&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="360" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="655" value="【自己編集&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;】&lt;/span&gt;&lt;div&gt;本の外での編集&lt;/div&gt;&lt;div&gt;年表&lt;/div&gt;&lt;div&gt;引用ノート&lt;/div&gt;&lt;div&gt;三冊の並び&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="250" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="656" value="【相互編集&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;】&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;著者のプレゼンテーションを見る&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;本の中での編集&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;（書き込み、キーワードの接続）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="930" y="250" width="190" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="471" value="多読術&lt;div&gt;無知を未知へ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="305" vertex="1">
+                    <mxGeometry x="80" y="70" width="1040" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

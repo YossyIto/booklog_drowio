@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1150" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="人は皮膚から癒される&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="60" width="960" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="私たちは言葉にできるより&lt;div&gt;多くのことを知ることができる&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="120" width="390" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="175" width="250" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="123" target="117" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="200" y="247.5" as="sourcePoint"/>
+                        <mxPoint x="200" y="247.08000000000004" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="120" value="言葉にできる&lt;div&gt;(形式的)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="384.38" y="232.5" width="100" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="知ることができること" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="177.5" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="言葉にできない&lt;div&gt;(暗黙的)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="237.5" width="115" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="イベント&lt;div&gt;事象&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="220" width="80" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

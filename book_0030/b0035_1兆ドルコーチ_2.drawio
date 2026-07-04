@@ -1,0 +1,113 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1137" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <object label="" id="0">
+                    <mxCell/>
+                </object>
+                <mxCell id="299" value="下地" style="" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="30" y="30" width="860" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" style="" parent="0"/>
+                <mxCell id="644" value="第一原則" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="120" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="649" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;「率直さ＋思いやり」の方程式&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="340" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="656" value="存在意義＝ビジョン" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="180" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="657" value="&lt;div&gt;プロダクトやサービス&lt;/div&gt;普遍の真理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="220" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="658" value="正しく勝利する" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="380" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="659" value="小さな声かけ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="180" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="660" value="人に関心をもつ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="220" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="665" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;チーム最優先&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="280" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="666" value="率直さ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="280" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="667" value="思いやり" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="120" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="668" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="660" y="219" as="sourcePoint"/>
+                        <mxPoint x="620" y="219" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="669" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="219" as="sourcePoint"/>
+                        <mxPoint x="300" y="219" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="670" value="ブレーキを外す" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="180" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="671" value="愛をもちこむ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="220" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="672" value="同じテーブルにつく&lt;div&gt;（オープン＆顔をあわせる）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="340" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="673" value="最大の問題にけりをつける" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="380" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="674" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="379" as="sourcePoint"/>
+                        <mxPoint x="300" y="379" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="675" value="フォーカスする" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="340" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="676" value="アクセルを踏む" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="380" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="677" value="信頼のあるチーム" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="490" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="678" value="第一原則に従う" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="200" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="679" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="460" y="120" as="sourcePoint"/>
+                        <mxPoint x="460" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="680" value="チームの文化を守る" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="360" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="681" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="660" y="380" as="sourcePoint"/>
+                        <mxPoint x="620" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="682" value="信頼のある仲間" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="280" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="683" value="ターゲットの一致" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="280" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="471" value="1兆ドルコーチ&lt;div&gt;信頼と目指すもの&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="40" width="840" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

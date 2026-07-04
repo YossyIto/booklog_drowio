@@ -1,0 +1,307 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1150" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="127" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="137.5" y="353" width="360" height="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="条件１：事象１&lt;div&gt;近位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="677.5" y="245" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="暗黙知の次元&lt;div&gt;第Ⅰ章　暗黙知&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="60" width="960" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="思考は必ず志向的になる&lt;div&gt;思考には、思考によって統合されることになる&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;思考は「～から～へ from-to」という志向構造を持つ。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="120" width="490" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="条件２：事象２&lt;div&gt;遠位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="897.5" y="245" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="109" target="110" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="817.5" y="285" as="sourcePoint"/>
+                        <mxPoint x="1037.5" y="375" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="617.5" y="260" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="112" target="109" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="657.5" y="325" as="sourcePoint"/>
+                        <mxPoint x="717.5" y="325" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="114" value="私たちは言葉にできるより&lt;div&gt;多くのことを知ることができる&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="120" width="390" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="1052.5" y="260" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="110" target="115" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="992.5" y="279.58" as="sourcePoint"/>
+                        <mxPoint x="1052.5" y="279.58" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="117" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="175" width="250" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="123" target="117" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="200" y="247.5" as="sourcePoint"/>
+                        <mxPoint x="200" y="247.08000000000004" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="120" value="言葉にできる&lt;div&gt;(形式的)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="384.38" y="232.5" width="100" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="知ることができること" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="177.5" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="言葉にできない&lt;div&gt;(暗黙的)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="237.5" width="115" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="イベント&lt;div&gt;事象&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="220" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="&lt;div&gt;知っている&lt;/div&gt;対象を知っている" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="418.13" width="160.62" height="63.12" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="&lt;div&gt;できる&lt;/div&gt;方法を知っている" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="321.88" y="418.13" width="161.25" height="63.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="知る" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="262.5" y="370" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="ペンを動かす" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="420" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="線が書かれる" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="420" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="129" target="130" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="820" y="460" as="sourcePoint"/>
+                        <mxPoint x="1040" y="550" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="132" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="435" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="132" target="129" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="660" y="500" as="sourcePoint"/>
+                        <mxPoint x="720" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="134" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="1055" y="435" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="130" target="134" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1015" y="454.5799999999999" as="sourcePoint"/>
+                        <mxPoint x="1075" y="454.5799999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="136" value="注意を払う" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="460" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="ケース１：事象２を期待する" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="377.5" width="190" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="落とし穴から離れる" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="540" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="139" value="&lt;div&gt;落とし穴を見る&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;落とし穴に落ちない" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="540" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="138" target="139" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="820" y="580" as="sourcePoint"/>
+                        <mxPoint x="1040" y="670" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="141" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="555" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="142" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="141" target="138" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="660" y="620" as="sourcePoint"/>
+                        <mxPoint x="720" y="620" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="143" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="1055" y="555" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="139" target="143" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="995" y="574.5799999999999" as="sourcePoint"/>
+                        <mxPoint x="1055" y="574.5799999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="145" value="注意を払う" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="580" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="ケース２：事象２を避ける" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="602.5" y="500" width="190" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" value="注意を払う" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="807.5" y="285" width="77.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="148" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="870" y="554.17" as="sourcePoint"/>
+                        <mxPoint x="820" y="554.17" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="149" value="&lt;div&gt;落とし穴を&lt;/div&gt;知っている" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="800" y="510" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="150" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="870" y="434.16999999999996" as="sourcePoint"/>
+                        <mxPoint x="820" y="434.16999999999996" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="151" value="&lt;div&gt;線が書けることを&lt;/div&gt;知っている" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="800" y="390" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="152" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="867.5" y="260" as="sourcePoint"/>
+                        <mxPoint x="817.5" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="153" value="&lt;div&gt;対象を&lt;/div&gt;知っている" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="797.5" y="215" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="154" value="from&lt;div&gt;近くから&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="677.5" y="200" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="155" value="to&lt;div&gt;遠くへ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="897.5" y="200" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="156" value="&lt;div&gt;方法を&lt;/div&gt;知っている" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="687.5" y="315" width="102.5" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="157" value="ピアノの鍵盤を押す&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;鍵盤に集中&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="680" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="158" value="&lt;div&gt;曲が流れる&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;曲が止まる" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="680" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="159" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="1" source="157" target="158" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="820" y="720" as="sourcePoint"/>
+                        <mxPoint x="1040" y="810" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="160" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="695" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="161" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="160" target="157" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="660" y="760" as="sourcePoint"/>
+                        <mxPoint x="720" y="760" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="162" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="1055" y="695" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="163" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="158" target="162" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="995" y="714.5799999999999" as="sourcePoint"/>
+                        <mxPoint x="1055" y="714.5799999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="164" value="注意がそれる" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="806.25" y="720" width="82.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="165" value="ケース３：事象１に意識すると&lt;div&gt;失敗する&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="630" width="202.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="166" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="870" y="694.17" as="sourcePoint"/>
+                        <mxPoint x="820" y="694.17" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="167" value="&lt;div&gt;曲を&lt;/div&gt;知っている" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="800" y="650" width="112.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="168" value="注意を払う" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="750" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" value="&lt;div&gt;➁&lt;/div&gt;問題を追及する" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="151.25" y="628" width="91.25" height="153.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="170" value="&lt;div&gt;①&lt;/div&gt;問題を妥当に&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;認識する&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="352.5" y="628" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="172" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="684.88" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="172" target="169" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="131.25" y="711.75" as="sourcePoint"/>
+                        <mxPoint x="191.25" y="711.75" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="174" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="526.25" y="643" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="175" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="170" target="174" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="466.25" y="666.3299999999999" as="sourcePoint"/>
+                        <mxPoint x="526.25" y="666.3299999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="177" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="327.5" y="643" as="sourcePoint"/>
+                        <mxPoint x="277.5" y="643" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="178" value="&lt;div&gt;対象を&lt;/div&gt;知っている" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="248.75" y="598" width="112.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="179" value="注意を払う" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="257.5" y="668" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" value="暗黙知の認識" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="545.5" width="390" height="31.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.776;exitY=-0.031;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="169" target="182" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="291.25" y="751.75" as="sourcePoint"/>
+                        <mxPoint x="341.25" y="771.75" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="182" value="&lt;div&gt;③&lt;/div&gt;&lt;div&gt;到達される発見について&lt;/div&gt;&lt;div&gt;暗示を妥当に予期する&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="352.5" y="711.75" width="138.75" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="解決を感知する" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="248.75" y="750" width="93.75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="526.25" y="726.75" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="186" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="182" target="185" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="501.25" y="676.75" as="sourcePoint"/>
+                        <mxPoint x="536.25" y="676.3299999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="187" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.228;exitY=-0.021;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="170" edge="1" source="169">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="252.5" y="665" as="sourcePoint"/>
+                        <mxPoint x="381.25" y="661.75" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

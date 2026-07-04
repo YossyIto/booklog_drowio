@@ -1,0 +1,81 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1404" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="299" value="下地" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="60" y="10" width="950" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="技術とは何だろうか&lt;div&gt;物&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="30" width="930" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="444" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="140" width="380" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="445" value="物&amp;lt;Ding&amp;gt;とは、有るもの一般を表わす慎重で控えめな名称なのです。 P32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="460" width="500" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="446" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="210" width="300" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="447" value="世界に存在を認められる" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="330" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="350" value="四方界" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="305" vertex="1">
+                    <mxGeometry x="70" y="90" width="510" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="410" value="瓶の本質" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="305" vertex="1">
+                    <mxGeometry x="620" y="90" width="380" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="431" value="天空" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="240" y="160" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="432" value="大地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="240" y="360" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="433" value="神的な者たち" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="70" y="260" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="434" value="死すべき者たち&lt;div&gt;人間&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="410" y="260" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="435" value="物&lt;div&gt;Ding&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="305">
+                    <mxGeometry x="240" y="270" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="436" value="瓶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="740" y="280" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="437" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="730" y="230" as="sourcePoint"/>
+                        <mxPoint x="760" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="438" value="納める" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="640" y="160" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="439" value="注ぎ出す" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="860" y="160" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="440" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="870" y="260" as="sourcePoint"/>
+                        <mxPoint x="900" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="441" value="捧げられる瓶&lt;div&gt;神酒、ワイン&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="740" y="400" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="443" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="815" y="350" as="sourcePoint"/>
+                        <mxPoint x="814.5" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,87 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1404" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="299" value="下地" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="100" y="10" width="1020" height="620" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" style="" parent="0"/>
+                <mxCell id="481" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="160" width="500" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="350" value="現代技術" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="305" vertex="1">
+                    <mxGeometry x="110" y="90" width="500" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="471" value="技術とは何だろうか&lt;div&gt;技術&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="305" vertex="1">
+                    <mxGeometry x="110" y="30" width="1000" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="477" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="305" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="340.25" y="234.5" as="sourcePoint"/>
+                        <mxPoint x="379.75" y="234.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="479" value="総かり立て体制&lt;div&gt;存在するすべての者、物を動員させる&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="305">
+                    <mxGeometry x="130" y="585" width="460" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="480" value="顕現させること" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="160" y="210" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="483" value="顕現されること" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="410" y="210" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="484" value="促進させる" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="305">
+                    <mxGeometry x="160" y="275" width="150" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="485" value="挑発する" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="305">
+                    <mxGeometry x="160" y="330" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="486" value="近代以前の技術&lt;div&gt;農夫の行為&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="305">
+                    <mxGeometry x="640" y="90" width="470" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="487" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="305">
+                    <mxGeometry x="640" y="160" width="470" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="488" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="870.25" y="234.5" as="sourcePoint"/>
+                        <mxPoint x="909.75" y="234.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="489" value="ポイエーシス&lt;div&gt;こちらから前に&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="810" y="275" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="490" value="耕すこと" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="690" y="210" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="491" value="顕現されること" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="940" y="210" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="492" value="世話をする" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="305">
+                    <mxGeometry x="690" y="275" width="150" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="493" value="面倒を見る" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="305">
+                    <mxGeometry x="690" y="330" width="150" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="494" value="開発する&lt;div&gt;変形する&lt;/div&gt;&lt;div&gt;変換する&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="305">
+                    <mxGeometry x="160" y="390" width="150" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="495" value="徴用物質&lt;div&gt;徴用して立てられた物質&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="160" y="490" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="496" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="244.5" y="475" as="sourcePoint"/>
+                        <mxPoint x="245" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="497" value="本質を発揮しているものはすべて、存続する。&lt;div&gt;総かり立て体制は、本質を隠す。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="305">
+                    <mxGeometry x="645" y="585" width="460" height="35" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

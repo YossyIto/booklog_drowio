@@ -1,0 +1,90 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1404" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="299" value="下地" parent="0" visible="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="30" y="10" width="920" height="620" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="すべては1人から始まる&lt;div&gt;目次の整理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="20" width="940" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="350" value="Part 1　&lt;div&gt;ソース原理とは何か&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="130" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="352" value="1　すべては１人から始まる" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="170" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="407" value="2　エネルギーを注ぎ込むソースの役割&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="230" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="408" value="3　人が集まるクリエイティブ・フィールド" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="290" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="409" value="「新しいアイデアや変化を世界にもたらす」" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="70" width="940" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="410" value="Part 2　&lt;div&gt;ソース原理を日々の実践に活かす&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="130" width="460" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="411" value="4　誰がソースなのか？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="170" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="412" value="5　ソースとしての振る舞い" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="230" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="413" value="6　イニシアチブを推進するサブソース" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="290" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="414" value="7　ビジョンを明確にする" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="350" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="415" value="9　フィールドマップをつくる" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="470" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="416" value="10　組織を変える3つのステップ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="530" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="417" value="11　クリエイティブな組織構造" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="170" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="418" value="12　意思決定と対立" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="230" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="419" value="8　ソースと文化の深いつながり" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="410" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="420" value="13　採用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="290" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="421" value="14　財務を問い直す" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="350" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="422" value="15　ソースの継承" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="410" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="423" value="16　合併と買収" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="470" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="424" value="17　イニシアチブを閉じる" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="530" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="425" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Part 3　&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;本来の自分を取り戻すマネーワーク&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="305">
+                    <mxGeometry x="760" y="130" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="426" value="18　お金は自分を映す鏡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="760" y="170" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="427" value="19　2種類のアイデンティティと向き合う" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="760" y="230" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="428" value="20　本来の自分を取り戻す" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="760" y="290" width="220" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

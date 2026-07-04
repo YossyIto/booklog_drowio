@@ -1,0 +1,177 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1328" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="299" value="下地" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="30" y="10" width="900" height="660" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="デカルトからベイトソンへ&lt;div&gt;自己と精神&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="20" width="880" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="413" value="他者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="245" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="414" value="生命の漲る自己&lt;div&gt;（みなぎる）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="220" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="415" value="" style="curved=1;endArrow=classic;html=1;entryX=0.792;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="413" target="414">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="200" y="330" as="sourcePoint"/>
+                        <mxPoint x="250" y="280" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="416" value="" style="curved=1;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.708;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="414" target="413">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="415" as="sourcePoint"/>
+                        <mxPoint x="175" y="408" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="426" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="200" width="180" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="425" value="「内にこもった」自己" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="230" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="439" value="分裂生成的状況&lt;div&gt;歪みが蓄積していく&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="620" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="440" value="" style="curved=1;endArrow=classic;html=1;exitX=0.767;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="432" target="432">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="590" y="610.04" as="sourcePoint"/>
+                        <mxPoint x="617" y="629" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="560" y="630"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="441" value="" style="curved=1;endArrow=classic;html=1;exitX=0.767;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="362" y="580" as="sourcePoint"/>
+                        <mxPoint x="330" y="583" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="350" y="628"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="442" value="" style="curved=1;endArrow=classic;html=1;exitX=0.767;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="132" y="580" as="sourcePoint"/>
+                        <mxPoint x="100" y="583" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="120" y="628"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="404" value="健全な人間関係の図式化&lt;div&gt;P20より&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="80" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="410" value="リアルな認識" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="220" y="140" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="417" value="意味ある行為" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="220" y="360" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="418" value="他者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="860" y="245" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="420" value="" style="curved=1;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="305" source="418">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="690" y="330" as="sourcePoint"/>
+                        <mxPoint x="640" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="760" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="421" value="" style="curved=1;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="305" source="426" target="418">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="624.96" y="296" as="sourcePoint"/>
+                        <mxPoint x="665" y="408" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="760" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="422" value="うつろな認識" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="710" y="140" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="423" value="無意味な行為" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="710" y="360" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="424" value="分裂症的人間関係の図式化&lt;div&gt;P20より&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="305">
+                    <mxGeometry x="480" y="80" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="427" value="すべてが死んでいるという感覚。&lt;div&gt;「にせ」の自己&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="570" y="230" width="90" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="428" value="心的システム＝精神のふるまい方&lt;br&gt;&lt;div&gt;P290,291より&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="410" width="880" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="429" value="自己修復&lt;div&gt;定常状態&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="50" y="505" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="430" value="動揺&lt;div&gt;(oscillation)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="270" y="505" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="431" value="" style="curved=1;endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="305" source="429" target="430">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="561" as="sourcePoint"/>
+                        <mxPoint x="485" y="540" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="220" y="610"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="432" value="暴走&lt;br&gt;&lt;div&gt;(runaway)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="480" y="505" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="433" value="＜精神＞の喪失&lt;div&gt;(loses its mind.)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="305">
+                    <mxGeometry x="670" y="502.5" width="135" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="435" value="" style="curved=1;endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="305" source="430" target="432">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="564" as="sourcePoint"/>
+                        <mxPoint x="499" y="569" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="440" y="610"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="436" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="305" source="432" target="433">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="650" y="540" as="sourcePoint"/>
+                        <mxPoint x="700" y="490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="437" value="" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="305" source="432" target="430">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="480" as="sourcePoint"/>
+                        <mxPoint x="488" y="481" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="440" y="470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="438" value="" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="305" source="430" target="429">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="280" y="517" as="sourcePoint"/>
+                        <mxPoint x="154" y="517" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="222" y="470"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

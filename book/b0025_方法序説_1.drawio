@@ -1,0 +1,153 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1404" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="299" value="下地" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="30" y="10" width="1050" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="304" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="299">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="690" y="380" as="sourcePoint"/>
+                        <mxPoint x="740" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="306" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="440" as="sourcePoint"/>
+                        <mxPoint x="160" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="307" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="440" as="sourcePoint"/>
+                        <mxPoint x="320" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="308" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="440" as="sourcePoint"/>
+                        <mxPoint x="480" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="309" value="0才&lt;div&gt;1596&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="130" y="440" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="310" value="10才&lt;div&gt;1606&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="290" y="440" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="311" value="20才&lt;div&gt;1616&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="450" y="440" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="312" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="640" y="440" as="sourcePoint"/>
+                        <mxPoint x="640" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="313" value="30才&lt;div&gt;1626&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="610" y="440" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="314" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="440" as="sourcePoint"/>
+                        <mxPoint x="800" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="315" value="40才&lt;div&gt;1636&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="770" y="440" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="316" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="960" y="440" as="sourcePoint"/>
+                        <mxPoint x="960" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="317" value="50才&lt;div&gt;1646&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="930" y="440" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="336" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="50" y="240" as="sourcePoint"/>
+                        <mxPoint x="1040" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="方法序説&lt;div&gt;デカルトと変化する社会&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="20" width="1040" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="263" value="デカルト" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="300" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="319" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="320" as="sourcePoint"/>
+                        <mxPoint x="1000" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="320" value="53才&lt;div&gt;1650没&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="305" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="321" value="フランス : ブルボン朝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="340" width="340" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="322" value="オランダ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="340" width="290" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="323" value="&lt;div&gt;オランダ(軍籍)→&lt;/div&gt;旅人（ドイツ、イタリア）&lt;div&gt;→パリ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="340" width="160" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="325" value="スウェーデン" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="950" y="340" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="326" value="法学&lt;div&gt;医学&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="439" y="375" width="61" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="327" value="社会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="160" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="328" value="★方法序説" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="810" y="280" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="329" value="★省察" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="280" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="330" value="★ガリレオ&lt;div&gt;地動説(1933)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="190" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="332" value="★哲学原理" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="870" y="250" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="337" value="★人間論" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="980" y="250" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="338" value="★情念論" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="990" y="275" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="339" value="★世界論" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="250" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="341" value="望遠鏡の発明&lt;div&gt;(1608)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="185" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="343" value="東インド会社設立&lt;div&gt;(1602)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="145" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="344" value="ネーデルラント連邦共和国 :オランダ&lt;div&gt;(1579-1795)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="105" width="900" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="345" value="朱印船貿易&lt;br&gt;&lt;div&gt;(1604-)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="185" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="346" value="移動" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="337.5" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="347" value="著書" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="260" width="60" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

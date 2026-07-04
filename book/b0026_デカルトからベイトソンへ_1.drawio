@@ -1,0 +1,57 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1404" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="299" value="下地" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="30" y="10" width="720" height="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="デカルトからベイトソンへ&lt;div&gt;目次の整理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="20" width="700" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="350" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;身体の機械化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;参加しない意識&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;デカルト編&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="140" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="351" value="&lt;div&gt;序章&lt;/div&gt;&lt;div&gt;近代のランドスケープ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="80" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="352" value="&lt;div&gt;第一章&lt;/div&gt;&lt;div&gt;近代の科学意識の誕生&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="220" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="395" value="&lt;div&gt;第二章&lt;/div&gt;&lt;div&gt;近代初期ヨーロッパの意識と社会&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="290" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="396" value="&lt;div&gt;第三章&lt;/div&gt;&lt;div&gt;世界の魔法が解けていく（１）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="360" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="397" value="&lt;div&gt;第四章&lt;/div&gt;&lt;div&gt;世界の魔法が解けていく（２）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="430" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="398" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;身体の一体化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;参加する意識&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;ベイトソン編&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="140" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="399" value="&lt;div&gt;第五章&lt;/div&gt;&lt;div&gt;未来の形而上学へ向けて&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="220" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="400" value="&lt;div&gt;第六章&lt;/div&gt;&lt;div&gt;エロスふたたび&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="290" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="401" value="&lt;div&gt;第七章&lt;/div&gt;&lt;div&gt;明日の形而上学（１）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="360" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="404" value="&lt;div&gt;ベイトソンへの批判&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="140" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="405" value="&lt;div&gt;第九章&lt;/div&gt;&lt;div&gt;意識の政治学&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="520" y="220" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="406" value="&lt;div&gt;第八章&lt;/div&gt;&lt;div&gt;明日の形而上学（２）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="280" y="430" width="220" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

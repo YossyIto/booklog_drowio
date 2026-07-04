@@ -1,0 +1,99 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1090" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="299" value="下地" parent="0" visible="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="30" y="10" width="780" height="640" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" style="" parent="0"/>
+                <mxCell id="571" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="120" width="360" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="590" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="400" width="360" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="591" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="120" width="360" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="471" value="東京藝大美術学部 究極の思考&lt;div&gt;形にすること&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="40" width="760" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="572" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-215;" vertex="1" parent="305">
+                    <mxGeometry x="97.13" y="180.9" width="237.21" height="174.41" as="geometry"/>
+                </mxCell>
+                <mxCell id="573" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="305">
+                    <mxGeometry x="217.21" y="200" width="92.79" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="566" value="フォーカス&lt;div&gt;領域&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="305" vertex="1">
+                    <mxGeometry x="230" y="210" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="574" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="100" y="230" as="sourcePoint"/>
+                        <mxPoint x="190" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="575" value="見ている領域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="230" y="170" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="576" value="step1 観察とフォーカス" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="90" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="578" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-215;dashed=1;dashPattern=8 8;" vertex="1" parent="305">
+                    <mxGeometry x="497.13" y="180.9" width="237.21" height="174.41" as="geometry"/>
+                </mxCell>
+                <mxCell id="579" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="305">
+                    <mxGeometry x="617.21" y="200" width="92.79" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="580" value="構想のタネ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="630" y="210" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="582" value="見ている領域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="630" y="170" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="583" value="step2 構想のタネ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="440" y="90" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="585" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="305">
+                    <mxGeometry x="60" y="420" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="586" value="構想のタネ&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;構想&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="85" y="450" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="587" value="具象化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="194.29999999999998" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="588" value="step3 熱量と形" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="370" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="594" value="形" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="274.3" y="450" width="60" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="595" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="224.29999999999998" y="550" as="sourcePoint"/>
+                        <mxPoint x="224.29999999999998" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="596" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="190" y="475" as="sourcePoint"/>
+                        <mxPoint x="264.3" y="475" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="599" value="膨大な熱量&lt;div&gt;やり切る意志の強さ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="97.17" y="565" width="250" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="600" value="観察＝構想のタネ ＋ 膨大な熱量&amp;nbsp;&lt;div&gt;⇒ &quot;形＝作品&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="305">
+                    <mxGeometry x="440" y="400" width="360" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="601" value="表現とは、２つから構成される P125-126&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;1 エクスプレッション(expression)&lt;/div&gt;&lt;div&gt;ex(外へ)＋pression(絞りだす)行為、自己表現&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 リプレンテーション(representation)&lt;/div&gt;&lt;div&gt;re(再び)＋presetation(プレゼンテーション、提示）&lt;br&gt;自分の目を通して、再び提示すること。&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="305">
+                    <mxGeometry x="440" y="490" width="360" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

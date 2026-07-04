@@ -1,0 +1,154 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1255" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3ox4tfunQ6hFDMhlDXL4-1" value="知の構築とその呪縛" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="20" width="1040" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="略画と密画" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="80" width="440" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="略画&lt;div&gt;（生物の世界）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;arcSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="140" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="自然との一体感&lt;div&gt;感性&lt;/div&gt;&lt;div&gt;自然の働き&lt;/div&gt;&lt;div&gt;心の働き&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;arcSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="190" width="180" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="167" value="密画&lt;div&gt;（死物の世界）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;arcSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="210" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="168" value="&lt;div&gt;細密化（より細かく）&lt;/div&gt;&lt;div&gt;正確さ（より正しく）&lt;/div&gt;&lt;div&gt;数値化（より細かく）&lt;/div&gt;&lt;div&gt;整合性（違いを明確に）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;arcSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="260" width="180" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="240" y="184.5" as="sourcePoint"/>
+                        <mxPoint x="280" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="170" value="バロック&lt;div&gt;インパクト、光の演出&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="240" width="250" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="哲学史、技術史、美術史" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="80" width="560" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="174" value="ロココ&lt;div&gt;官能的、装飾&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="330" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="175" value="ルネサンス&lt;div&gt;遠近法、絵具の進化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="827" y="150" width="250" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="176" value="1700-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="320" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="177" value="1400-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="160" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="178" value="1600-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="240" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="179" value="デカルト&lt;div&gt;1596-1650&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="240" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" value="ガリレオ&lt;div&gt;1564-1642&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="230" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" value="ニュートン&lt;div&gt;1642-1727&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="290" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="182" value="1800-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="400" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="新古典主義&lt;div&gt;形式美、統一性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="390" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="ロマン主義&lt;div&gt;個人の自由な感性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="960" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="1900-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="480" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="186" value="ロック&lt;div&gt;1632-1704&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="300" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="188" value="大森 荘蔵&lt;div&gt;1921-1997&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="490" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="189" value="カント&lt;div&gt;1724-1804&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="350" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="190" value="写実主義&lt;div&gt;現実、写実&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="450" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="191" value="印象派&lt;div&gt;瞬間の光と空気感&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="960" y="465" width="120" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="194" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="290" y="440" as="sourcePoint"/>
+                        <mxPoint x="220" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="195" value="ルター&lt;br&gt;&lt;div&gt;1483-1546&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="150" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="196" value="写真&lt;div&gt;1850-&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="450" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="197" value="望遠鏡&lt;div&gt;1608-&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="250" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="198" value="蒸気機関&lt;div&gt;1698&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;-&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="320" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="199" value="電気&lt;br&gt;&lt;div&gt;1781&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;-&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="390" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="200" value="電信&lt;br&gt;&lt;div&gt;1787&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;-&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="201" value="蓄音機&lt;br&gt;&lt;div&gt;1877&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;-&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="460" width="80" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="203" value="密画と略画の重ね描き" style="rounded=1;whiteSpace=wrap;html=1;direction=south;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="490" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="204" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="500" y="515" as="sourcePoint"/>
+                        <mxPoint x="240" y="514.58" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="205" value="心と世界の分離" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="55" y="360" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="206" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="130" y="330" as="sourcePoint"/>
+                        <mxPoint x="130" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="207" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="290" y="330" as="sourcePoint"/>
+                        <mxPoint x="210" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="208" value="キュビズム&lt;div&gt;多角的な視点&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="500" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="209" value="プロテスタント&lt;div&gt;1524-&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="200" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="211" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="129.57999999999998" y="450" as="sourcePoint"/>
+                        <mxPoint x="129.57999999999998" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

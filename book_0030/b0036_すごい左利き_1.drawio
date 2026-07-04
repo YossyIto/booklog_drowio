@@ -1,0 +1,107 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="wD1D_-mcbQuzH8DuJ2JL">
+        <mxGraphModel dx="1137" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <object label="" id="0">
+                    <mxCell/>
+                </object>
+                <mxCell id="299" value="下地" style="" parent="0"/>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="299" vertex="1">
+                    <mxGeometry x="30" y="30" width="700" height="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" style="" parent="0"/>
+                <mxCell id="622" value="思考系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="180" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="623" value="理解系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="180" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="630" value="脳番地" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="120" width="680" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="633" value="伝達系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="634" value="聴覚系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="636" value="右利きの経路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="320" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="637" value="右手" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="380" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="名称未設定レイヤ" parent="0"/>
+                <mxCell id="471" value="すごい左利き&lt;div&gt;脳番地と利き手&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="305" vertex="1">
+                    <mxGeometry x="40" y="40" width="680" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="664" value="運動系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="220" y="180" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="665" value="視覚系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="540" y="180" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="666" value="感情系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="220" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="667" value="記憶系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="540" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="668" value="左利きの経路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="305">
+                    <mxGeometry x="400" y="320" width="320" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="669" value="左脳&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【得意】&lt;/div&gt;&lt;div&gt;言語理解&lt;/div&gt;&lt;div&gt;自己感情&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="40" y="490" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="670" value="右脳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="240" y="520" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="672" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="180" y="540" as="sourcePoint"/>
+                        <mxPoint x="220" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="673" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="440" as="sourcePoint"/>
+                        <mxPoint x="180" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="674" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="580" as="sourcePoint"/>
+                        <mxPoint x="180" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="675" value="左手" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="305">
+                    <mxGeometry x="400" y="380" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="676" value="左脳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="400" y="520" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="677" value="右脳&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;【得意】&lt;/span&gt;&lt;/div&gt;&lt;div&gt;非言語理解&lt;/div&gt;&lt;div&gt;他者感情&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="305">
+                    <mxGeometry x="600" y="490" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="678" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="540" y="580" as="sourcePoint"/>
+                        <mxPoint x="580" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="679" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="540" y="440" as="sourcePoint"/>
+                        <mxPoint x="590" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="680" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="305">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="580" y="540" as="sourcePoint"/>
+                        <mxPoint x="540" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
